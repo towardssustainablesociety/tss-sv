@@ -1,0 +1,52 @@
+# Bygger TSS och publicerar på GitHub Pages vid varje ändring i main.
+# Ligger i förrådet som .github/workflows/publicera.yml.
+# --noindex tas bort när webbplatsen publiceras skarpt (förvaltningsplanen, steg 7).
+name: Bygg och publicera
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  bygg:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Installera pandoc och python-docx
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+          python3 -m pip install --break-system-packages python-docx==1.2.0
+
+      - name: Bygg webbplatsen
+        env:
+          TSS_FORRAD: ${{ github.server_url }}/${{ github.repository }}
+        run: |
+          python3 bygg/bygg.py texter _site --noindex | tee bygglogg.txt
+          echo '### Bygget' >> "$GITHUB_STEP_SUMMARY"
+          sed 's/^/    /' bygglogg.txt >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  publicera:
+    needs: bygg
+    runs-on: ubuntu-24.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
