@@ -16,21 +16,20 @@
 <link rel="stylesheet" href="{{UP}}stil.css">
 </head>
 <body>
-<header class="site"><a href="{{HOME}}">Mot ett hållbart samhälle</a></header>
+<header class="site"><div class="bar"><a class="logo" href="{{HOME}}">{{SITE}}</a>
+<nav class="top" aria-label="Huvudmeny">
+{{TOP}}
+</nav></div></header>
 <main>
+{{CRUMBS}}
 <h1>{{H1}}</h1>
-<details class="nav">
-<summary>Navigera i samhället</summary>
-<nav>
-{{NAV}}
-</nav>
-</details>
 <article>
 {{BODY}}
 </article>
+{{SECTION}}
 </main>
 <footer class="site">
-<p><a href="{{HOME}}">Mot ett hållbart samhälle</a> · <a href="{{KONTAKT}}">Kontakt</a>{{FORRAD}}</p>
+<p><a href="{{HOME}}">{{SITE}}</a> · <a href="{{KONTAKT}}">Kontakt</a>{{FORRAD}}</p>
 <p>Texterna och bilderna får användas och byggas vidare på enligt <a rel="license" href="{{LICENS}}">CC BY-SA 4.0</a>.</p>
 </footer>
 </body>

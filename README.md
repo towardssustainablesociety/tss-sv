@@ -18,7 +18,7 @@ Byggskripten i `bygg/` omfattas av samma licens.
 
 | Mapp | Innehåll |
 |---|---|
-| `texter/` | Webbplatsens sidor, en mapp per sida. Filen heter som mappen. `Navigera i samhället.docx` är navigeringen för huvudsidan i samma mapp och dess undersidor. Bilder ligger som PNG i sidans mapp. |
+| `texter/` | Webbplatsens sidor, en mapp per sida. Filen heter som mappen. `Navigera i samhället.docx` anger tills vidare i vilken ordning sidorna under huvudsidan visas. Navigeringen på webbplatsen (toppmenyn, raden som visar var man är och listan över sidorna sist) byggs av mallen. Bilder ligger som PNG i sidans mapp. |
 | `bygg/` | `bygg.py` gör om texterna till en statisk webbplats. `mall.html` är sidmallen och `stil.css` utseendet. |
 | `.github/workflows/publicera.yml` | Bygger och publicerar webbplatsen på GitHub Pages vid varje ändring i `main`. |
 

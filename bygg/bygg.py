@@ -14,7 +14,8 @@ NOINDEX = PREVIEW or '--noindex' in sys.argv
 FORRAD = os.environ.get('TSS_FORRAD', '').strip()
 LICENS = 'https://creativecommons.org/licenses/by-sa/4.0/deed.sv'
 BASE = 'https://sv.towardssustainablesociety.org'
-SITE = 'Mot ett hållbart samhälle'
+SITE = 'Mot ett hållbart samhälle – TSS'
+SHORT = 'TSS'
 START = 'Hållbart samhälle'
 N = lambda s: unicodedata.normalize('NFC', s)
 
@@ -76,6 +77,8 @@ idmap = {sid: bykey[c.most_common(1)[0][0]] for sid, c in idcount.items()}
 problems = []
 
 # ---- navigering ----
+# Navigera i samhället.docx visas inte längre (2026-10-27). Den används bara för sidornas ordning,
+# tills ordningen får en egen fil.
 def navlines(navpath):
     d = docx.Document(navpath)
     lines = []
@@ -86,26 +89,53 @@ def navlines(navpath):
     return lines
 navs = {rel: navlines(p) for rel, p in navfiles.items()}
 
-def nav_for(p):
-    for cand in (p['rel'], p['parent']):
-        if cand in navs: return navs[cand]
-    return navs[pages[START]['rel']]
-
-def render_nav(p):
+# ---- toppmeny, brödsmulor (Du är här) och Sidorna i … sist på sidan ----
+def order_children(par):
+    """barnsidor till par, i den ordning de står i Navigera i samhället.docx (tills vidare)"""
+    kids = [q for q in pages.values() if q['parent'] == par['rel'] and q is not par]
+    seq = []
+    for cand in (par['rel'],) + tuple(r for r in navs if os.path.dirname(r) == par['rel']):
+        for line in navs.get(cand, []):
+            t = bykey.get(key(line))
+            if t in kids and t not in seq: seq.append(t)
+    return seq + sorted((k for k in kids if k not in seq), key=lambda q: q['name'])
+TOP = [pages[n] for n in ('Vårt samhälle', 'Samhällskartan', 'Samhällsutforskaren', 'Om TSS')]
+byrel = {q['rel']: q for q in pages.values()}
+def ancestors(p):
+    out, r = [], p['parent']
+    while r and r != '.':
+        if r in byrel: out.insert(0, byrel[r])
+        r = os.path.dirname(r)
+    return out
+def topmenu(p):
+    anc = ancestors(p)
     out = []
-    for line in nav_for(p):
-        if set(line) <= set('-–— '):
-            out.append('<hr>'); continue
-        k = key(line)
-        t = bykey.get(k)
-        label = html.escape(line)
-        if t is None:
-            problems.append(f'{p["name"]}: navigeringsraden "{line}" saknar sida'); out.append(f'<span>{label}</span>'); continue
-        if t is p:
-            out.append(f'<span class="current" aria-current="page">{label}</span>')
+    for t in TOP:
+        if t is p: out.append(f'<span aria-current="page">{html.escape(t["name"])}</span>')
         else:
-            out.append(f'<a href="{href(p, t)}">{label}</a>')
+            cls = ' class="in"' if t in anc else ''
+            out.append(f'<a href="{href(p, t)}"{cls}>{html.escape(t["name"])}</a>')
     return '\n'.join(out)
+def crumbs(p):
+    if p['name'] == START or p in TOP: return ''
+    items = [f'<a href="{href(p, pages[START])}">{START}</a>'] + [f'<a href="{href(p, a)}">{html.escape(a["name"])}</a>' for a in ancestors(p)]
+    items.append(f'<span aria-current="page">{html.escape(p["name"])}</span>')
+    return '<nav class="crumbs" aria-label="Du är här">' + ' <span class="sep">›</span> '.join(items) + '</nav>'
+def section(p):
+    kids = order_children(p)
+    if kids:
+        head, lst = p, kids
+    else:
+        par = byrel.get(p['parent'])
+        if not par or par['name'] == START: return ''
+        head, lst = par, order_children(par)
+    if not lst: return ''
+    li = []
+    for q in lst:
+        li.append(f'<li><span aria-current="page">{html.escape(q["name"])}</span></li>' if q is p else f'<li><a href="{href(p, q)}">{html.escape(q["name"])}</a></li>')
+    title = f'Sidorna i {head["name"]}' if head is not p else 'Sidorna här'
+    first = f'<li class="head"><span aria-current="page">{html.escape(head["name"])}</span></li>' if head is p else f'<li class="head"><a href="{href(p, head)}">{html.escape(head["name"])}</a></li>'
+    return f'<h2 class="section">Sidorna i {html.escape(head["name"])}</h2><nav class="section" aria-label="{html.escape(title)}"><ul>{first}{"".join(li)}</ul></nav>'
 
 # ---- bilder ----
 imgs = {}
@@ -169,7 +199,7 @@ for p in pages.values():
         b = figure(p, 'Samhällskartan', 'Samhällskartan: de fyra samhällssystemen med människan i mitten, den sociala grunden och planetens gränser') + b
     up = '../' * p['url'].count('/')
     title = START if p['name'] == START else p['name']
-    head_title = SITE if p['name'] == START else f'{p["name"]} – {SITE}'
+    head_title = SITE if p['name'] == START else f'{p["name"]} – {SHORT}'
     d = desc(b) or SITE
     og = image('Hållbart samhälle delningsbild')
     page = TPL
@@ -177,7 +207,7 @@ for p in pages.values():
         '{{TITLE}}': html.escape(head_title), '{{H1}}': html.escape(title), '{{DESC}}': html.escape(d, quote=True),
         '{{CANON}}': BASE + '/' + p['url'], '{{OGIMG}}': BASE + '/' + og, '{{UP}}': up,
         '{{HOME}}': href(p, pages[START]), '{{KONTAKT}}': href(p, pages['Kontakt']),
-        '{{NAV}}': render_nav(p), '{{BODY}}': b,
+        '{{TOP}}': topmenu(p), '{{CRUMBS}}': crumbs(p), '{{SECTION}}': section(p), '{{SITE}}': SITE, '{{BODY}}': b,
         '{{ROBOTS}}': '<meta name="robots" content="noindex">' if NOINDEX else '',
         '{{LICENS}}': LICENS,
         '{{FORRAD}}': f' · <a href="{html.escape(FORRAD, quote=True)}">Texterna på GitHub</a>' if FORRAD else '',
