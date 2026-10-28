@@ -1,6 +1,6 @@
 # Bygger TSS och publicerar på GitHub Pages vid varje ändring i main.
 # Ligger i förrådet som .github/workflows/publicera.yml.
-# --noindex tas bort när webbplatsen publiceras skarpt (förvaltningsplanen, steg 7).
+# Skarp publicering sedan 2026-10-28 (förvaltningsplanen, steg 7). Lägg till --noindex för att dölja webbplatsen för sökmotorer igen.
 name: Bygg och publicera
 
 on:
@@ -33,7 +33,7 @@ jobs:
         env:
           TSS_FORRAD: ${{ github.server_url }}/${{ github.repository }}
         run: |
-          python3 bygg/bygg.py texter _site --noindex | tee bygglogg.txt
+          python3 bygg/bygg.py texter _site | tee bygglogg.txt
           echo '### Bygget' >> "$GITHUB_STEP_SUMMARY"
           sed 's/^/    /' bygglogg.txt >> "$GITHUB_STEP_SUMMARY"
 

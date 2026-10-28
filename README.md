@@ -2,7 +2,7 @@
 
 TSS (*Towards Sustainable Society*) är en kunskapswebbplats om ett hållbart samhälle: **ett gott liv för alla, inom planetens gränser**. Den bygger på FN:s globala mål (Agenda 2030), de planetära gränserna och Doughnut Economics, och beskriver samhället som fyra samhällssystem – det ekologiska, det ekonomiska, det sociala och kulturella och det demokratiska – med människan i mitten.
 
-Webbplatsen: <https://sv.towardssustainablesociety.org> (publiceras senare; tills vidare som förhandsversion på GitHub Pages).
+Webbplatsen: <https://sv.towardssustainablesociety.org>
 
 ## Ett öppet förråd
 
@@ -34,9 +34,9 @@ Texterna är i dag docx. De ska bli markdown (förvaltningsplanen, steg 4).
 Bygga själv (kräver pandoc och python-docx):
 
 ```
-python3 bygg/bygg.py texter _site --noindex     # som på GitHub, ber sökmotorer att inte indexera
+python3 bygg/bygg.py texter _site               # som på GitHub, skarp version
 python3 bygg/bygg.py texter _site --preview     # för att öppna filerna direkt i webbläsaren
-python3 bygg/bygg.py texter _site               # skarp version, när webbplatsen publiceras
+python3 bygg/bygg.py texter _site --noindex     # ber sökmotorer att inte indexera
 ```
 
 ## Föreslå en ändring
