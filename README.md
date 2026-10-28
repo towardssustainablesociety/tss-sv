@@ -18,20 +18,29 @@ Byggskripten i `bygg/` omfattas av samma licens.
 
 | Mapp | Innehåll |
 |---|---|
-| `texter/` | Webbplatsens sidor, en mapp per sida. Filen heter som mappen. `Navigera i samhället.docx` anger tills vidare i vilken ordning sidorna under huvudsidan visas. Navigeringen på webbplatsen (toppmenyn, raden som visar var man är och listan över sidorna sist) byggs av mallen. Bilder ligger som PNG i sidans mapp. |
+| `texter/` | Webbplatsens sidor i markdown, en mapp per sida. Filen heter som mappen, till exempel `texter/Samhällsutforskaren/Ekologiska systemet/Naturens kretslopp/Naturens kretslopp.md`. Bilder ligger som PNG i sidans mapp. |
+| `texter/Sidordning.md` | Alla sidor i den ordning de visas. Navigeringen på webbplatsen (toppmenyn, raden som visar var man är och listan över sidorna sist) byggs av mallen utifrån mapparna och den här filen. |
 | `bygg/` | `bygg.py` gör om texterna till en statisk webbplats. `mall.html` är sidmallen och `stil.css` utseendet. |
 | `.github/workflows/publicera.yml` | Bygger och publicerar webbplatsen på GitHub Pages vid varje ändring i `main`. |
 
-Texterna är i dag docx. De ska bli markdown (förvaltningsplanen, steg 4).
+Texterna i förrådet är originalet sedan 2026-10-28. Före dess var originalet docx-filer.
+
+## Så skrivs en sida
+
+- Mappens namn är sidans namn och ger sidans adress på webbplatsen. Ett namnbyte ändrar adressen.
+- Rubrikerna är underrubriker (`##`). Sidans titel sätts av bygget och skrivs inte i filen.
+- En länk till en annan sida går till sidans fil, med relativ sökväg inom vinkelparenteser, till exempel `[Planetära gränser – Ramverk](<../../Ramverk/Planetära gränser/Planetära gränser.md>)`. Då fungerar länken både här på GitHub och på webbplatsen.
+- En bild skrivs i ett eget stycke: `![Beskrivning av bilden](<Pengarnas väg 2026-10-21.png>)`. Beskrivningen blir bildens alternativtext.
+- En ny sida får en egen mapp med en fil, och läggs in på rätt plats i `Sidordning.md`.
 
 ## Hur bygget fungerar
 
-1. Varje docx görs om till HTML med pandoc.
-2. Länkar mellan sidorna kommer från den gamla Google Sites-versionen. Bygget känner igen dem på länktexten och gör om dem till webbplatsens egna adresser, till exempel `/samhallsutforskaren/ekologiska-systemet/naturens-kretslopp/`.
-3. En rad `[BILD: Namn, beskrivning]` ersätts med den senaste bilden i sidmappen vars filnamn börjar med *Namn*.
-4. Bygget skriver också sitemap, robots.txt och CNAME, och listar problem (länkar som inte hittar sin sida, saknade bilder) i loggen för körningen.
+1. Varje sida görs om från markdown till HTML med pandoc.
+2. Länkar till andra sidfiler blir webbplatsens egna adresser, till exempel `/samhallsutforskaren/ekologiska-systemet/naturens-kretslopp/`. Externa länkar öppnas i en ny flik.
+3. Bilderna kopieras till webbplatsen.
+4. Bygget skriver också sitemap, robots.txt och CNAME, och listar problem i loggen för körningen: länkar som inte hittar sin sida, bilder som saknas och sidor som saknas eller står fel i `Sidordning.md`.
 
-Bygga själv (kräver pandoc och python-docx):
+Bygga själv (kräver pandoc och Python 3.10 eller senare):
 
 ```
 python3 bygg/bygg.py texter _site               # som på GitHub, skarp version
