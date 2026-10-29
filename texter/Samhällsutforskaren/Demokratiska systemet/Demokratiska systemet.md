@@ -16,9 +16,9 @@ Några av frågorna:
 
 - Vem talar för dem som inte är födda än?
 
-Välj en fråga i Navigera i samhället, eller börja med Val o partier.
+Välj en fråga i listan sist på sidan, eller börja med Val o partier.
 
-**Kopplingar till andra delar av samhället**
+## Kopplingar till andra delar av samhället
 
 - [Ekonomin och det hållbara samhället – Ekonomiska systemet](<../Ekonomiska systemet/Ekonomin och det hållbara samhället/Ekonomin och det hållbara samhället.md>)
 
