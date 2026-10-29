@@ -80,9 +80,9 @@ Här föreslås inte vilken politik som ska föras för att nå dit. Det är dem
 
 ## Hur ser helheten ut?
 
-![Samhällskartan, hela kartan](<Samhällskartan/Samhällskartan 2026-10-19.png>)
+![Samhällskartan: de fyra samhällssystemen med människan i mitten, den sociala grunden och planetens gränser](<Samhällskartan/Samhällskartan.svg>)
 
-Så här ser hela bilden ut. I mitten står hållbarheten, med den sociala grunden och det ekologiska taket. Runt den finns de fyra samhällssystemen och pilarna som visar sambanden mellan dem. Allt omsluts av planetens gränser. Till vänster står bristerna i dagens system och till höger de förbättringar vi behöver. Längst ner finns Ramverket, med FN:s globala mål och Doughnut Economics, och en ruta om hur förändringar sprids genom systemen över tid.
+Så här ser hela bilden ut. I mitten står människan, omgiven av den sociala grunden och det ekologiska taket. Runt henne finns de fyra samhällssystemen och pilarna som visar sambanden mellan dem. Allt omsluts av planetens gränser. Längst ner finns Ramverket: FN:s globala mål, Doughnut Economics och de planetära gränserna. Varje del av kartan är en länk.
 
 Härifrån kan du gå vidare på två sätt. [Samhällskartan](<Samhällskartan/Samhällskartan.md>) förklarar kartan del för del. I [Samhällsutforskaren](<../Samhällsutforskaren/Samhällsutforskaren.md>) väljer du ett system och en fråga som intresserar dig, och börjar där.
 

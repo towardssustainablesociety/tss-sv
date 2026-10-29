@@ -34,6 +34,7 @@ li{margin:.25em 0}
 li p{margin:0}
 figure{margin:1.5em 0}
 figure img{display:block;width:100%;height:auto;border-radius:6px}
+figure.karta svg{display:block;width:100%;height:auto}
 details.nav{background:var(--soft);border:1px solid var(--line);border-radius:8px;margin:0 0 28px}
 details.nav summary{cursor:pointer;padding:10px 14px;font-weight:600;color:var(--accent);list-style:none}
 details.nav summary::-webkit-details-marker{display:none}

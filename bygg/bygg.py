@@ -130,11 +130,32 @@ def figure(p, src, alt):
     path = os.path.normpath(os.path.join(SRC, p['rel'], unquote(html.unescape(src))))
     if not os.path.exists(path):
         problems.append(f'{p["name"]}: bilden "{src}" finns inte'); return ''
+    if path.endswith('.svg'): return inline_svg(p, path, alt)
     out = slug(os.path.basename(path)[:-4]) + '.png'
     if not os.path.exists(os.path.join(OUT, 'bilder', out)): nimgs += 1
     shutil.copyfile(path, os.path.join(OUT, 'bilder', out))
     up = '../' * p['url'].count('/')
     return f'<figure><img src="{up}bilder/{out}" alt="{alt}" loading="lazy"></figure>'
+
+def inline_svg(p, path, alt):
+    """SVG läggs in direkt i sidan, så att länkarna i bilden fungerar.
+    Länkarna skrivs relativt till SVG-filens mapp, som länkarna i sidfilerna."""
+    svgdir = N(os.path.relpath(os.path.dirname(path), SRC))
+    s = open(path, encoding='utf-8').read()
+    s = re.sub(r'<\?xml[^>]*>\s*', '', s)
+    s = re.sub(r'<!--.*?-->', '', s, flags=re.S)
+    def link(m):
+        url = html.unescape(m.group(1))
+        if url.startswith('#') or re.match(r'^[a-z]+:', url): return m.group(0)
+        target = N(os.path.normpath(os.path.join(svgdir, unquote(url))))
+        t = byrel.get(os.path.dirname(target)) if target.endswith('.md') else None
+        if not t or os.path.basename(target) != t['name'] + '.md':
+            problems.append(f'{p["name"]}: länken "{url}" i {os.path.basename(path)} hittar ingen sida'); return '<a href="#">'
+        if t is not p: linked[t['name']] += 1
+        return f'<a href="{href(p, t)}">'
+    s = re.sub(r'<a href="([^"]+)">', link, s)
+    s = s.replace('<svg ', f'<svg role="group" aria-label="{alt}" ', 1)
+    return f'<figure class="karta">{s.strip()}</figure>'
 
 # ---- brödtext ----
 linked = collections.Counter()   # sida -> antal länkar från andra sidor
