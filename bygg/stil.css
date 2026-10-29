@@ -45,4 +45,8 @@ details.nav hr{border:0;border-top:1px solid var(--line);margin:6px 0;width:100%
 details.nav .current{font-weight:700;font-style:italic;color:var(--text)}
 footer.site{border-top:1px solid var(--line);color:var(--muted);font-size:.9rem}
 footer.site p{margin:.3em 0}
+table{border-collapse:collapse;margin:1em 0 1.3em;font-size:.95rem;max-width:100%;display:block;overflow-x:auto}
+th,td{border-bottom:1px solid var(--line);padding:6px 12px 6px 0;text-align:left;vertical-align:top}
+th{font-weight:600;border-bottom:2px solid var(--line)}
+td:not(:first-child),th:not(:first-child){text-align:right;white-space:nowrap}
 @media (max-width:480px){body{font-size:16px} h1{font-size:1.6rem} header.site .bar{display:block} nav.top{margin-top:6px;gap:4px 14px;font-size:.9rem}}

@@ -50,7 +50,25 @@ Frikoppling är alltså inte en fråga om ja eller nej, utan om takt och bredd. 
 
 Delvis, och det är tillväxtanhängarnas starkaste argument. Mellan 1990 och 2018 nästan fördubblades Sveriges ekonomi, samtidigt som koldioxidutsläppen minskade med 27 procent. Minskningen har fortsatt, och 2025 låg utsläppen av växthusgaser inom landet ungefär 34 procent under 1990 års nivå. Det beror bland annat på koldioxidskatten, som infördes 1991, på fossilfri elproduktion och på att fjärrvärme har ersatt oljepannor. Det är en verklig framgång.
 
-Men bilden ändras när man räknar med det vi konsumerar. Svenskarnas konsumtion gav 2023 upphov till omkring 7,6 ton växthusgaser per person, och en stor del av dem släpps ut i andra länder där våra varor tillverkas. År 2021 var de konsumtionsbaserade utsläppen 88 miljoner ton, nästan dubbelt så mycket som de 48 miljoner ton som släpptes ut inom Sverige. Även de konsumtionsbaserade utsläppen per person har minskat, med drygt en tredjedel sedan 2008, och Sverige är ett av de elva länderna i studien från 2023. Det är alltså Sveriges takt som visar sig vara långt ifrån tillräcklig.
+Men bilden ändras när man räknar med det vi konsumerar. Utsläppen kan räknas på två sätt. Det ena räknar det som släpps ut inom Sveriges gränser, även när det som tillverkas här exporteras. Det andra räknar utsläppen från allt svenskarna köper, var i världen de än uppstår.
+
+| 2024, miljoner ton växthusgaser | I Sverige | I andra länder | Totalt |
+|---|---|---|---|
+| Utsläpp inom Sveriges gränser | 47,5 | – | 47,5 |
+| Utsläpp från svenskarnas konsumtion | omkring 31 | omkring 48 | 79 |
+
+Ungefär sex av tio ton av utsläppen från svenskarnas konsumtion uppstår alltså i andra länder, där våra varor tillverkas. Också de har minskat, med 26 procent sedan 2008, och Sverige är ett av de elva länderna i studien från 2023. Det är Sveriges takt som visar sig vara långt ifrån tillräcklig.
+
+Hur mycket är då en rimlig andel? Om alla människor ska ha lika stort utrymme och uppvärmningen ska stanna vid 1,5 grader, räcker det ungefär till följande per person, räknat på allt vi konsumerar:
+
+| Utsläpp från konsumtionen, ton per person och år | Ton |
+|---|---|
+| Svenskarna i dag (2023) | 7,6 |
+| Rimlig andel 2030 | 2,5 |
+| Rimlig andel 2040 | 1,4 |
+| Rimlig andel 2050 | 0,7 |
+
+Nivåerna för 2030–2050 kommer från en internationell studie från 2019 om livsstilar som är förenliga med 1,5 grader. Naturvårdsverket anger ett liknande riktmärke: högst omkring 1 ton per person och år till 2050. För att nå en rimlig andel 2030 skulle svenskarnas utsläpp från konsumtionen behöva minska med ungefär två tredjedelar på några år. Det är långt snabbare än hittills.
 
 Hur snabbt belastningen minskar avgörs därför inte i ekonomin ensam. Det avgörs av politiska beslut i det demokratiska systemet, av vad vi uppfattar som ett gott liv i det sociala systemet och av vad naturen tål i det ekologiska systemet. Sverige visar att frikoppling är möjlig, men inte att den räcker.
 
@@ -96,6 +114,12 @@ Ett hållbart samhälle behöver därför kunna skapa trygghet, försörjning oc
 
 - [Naturvårdsverket, Sveriges utsläpp och upptag av växthusgaser](https://www.naturvardsverket.se/data-och-statistik/klimat/sveriges-utslapp-och-upptag-av-vaxthusgaser/)
 
-- [Naturvårdsverket, Konsumtionsbaserade växthusgasutsläpp per person och år](https://www.naturvardsverket.se/data-och-statistik/konsumtion/vaxthusgaser-konsumtionsbaserade-utslapp-per-person/)
+- [Naturvårdsverket, Svårt att nå klimatmålen men en ljusning för upptaget av växthusgaser i skog och mark (2025)](https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/2025/december/svart-att-na-klimatmalen-men-en-ljusning-for-upptaget-av-vaxthusgaser-i-skog-och-mark/)
+
+- [Naturvårdsverket, Konsumtionsbaserade utsläpp av växthusgaser i Sverige och andra länder](https://www.naturvardsverket.se/data-och-statistik/konsumtion/vaxthusgaser-konsumtionsbaserade-utslapp-i-sverige-och-andra-lander/)
+
+- [Naturvårdsverket, Klimatet och konsumtionen](https://www.naturvardsverket.se/amnesomraden/klimatomstallningen/omraden/klimatet-och-konsumtionen)
+
+- [IGES, Aalto-universitetet och D-mat, 1.5-Degree Lifestyles: Targets and options for reducing lifestyle carbon footprints (2019)](https://www.iges.or.jp/en/news/20190225)
 
 - [IEA, Sweden carbon tax, Government Bill 1990/91:19](https://www.iea.org/policies/12725-sweden-carbon-tax)
