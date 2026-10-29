@@ -3,8 +3,9 @@
 <!-- Samhällskartan – TSS. Licens CC BY-SA 4.0. Originalet är denna fil. Länkar skrivs relativt till den här filens mapp, som länkarna i sidfilerna. Varje objekt har ett id; objektregistret BO-002 beskriver dem. -->
 <style>.samhallskartan a{text-decoration:none}.samhallskartan a text{text-decoration:underline;text-underline-offset:3px}.samhallskartan a:hover text,.samhallskartan a:focus-visible text{text-decoration-thickness:2px}.samhallskartan a:focus-visible{outline:2px solid #0b3d91;outline-offset:3px}</style>
 <defs><marker id="pil" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6b7680"/></marker></defs>
+<g id="bakgrund"><rect x="0" y="0" width="1000" height="1150" rx="24" fill="#e9f1f6"/><circle cx="500" cy="500" r="412" fill="#fbf7ee"/></g>
 <g id="planetens-granser">
-<circle cx="500" cy="500" r="447.0" fill="none" stroke="#e4efe6" stroke-width="70"/>
+<circle cx="500" cy="500" r="447.0" fill="none" stroke="#d6e8d6" stroke-width="70"/>
 <circle cx="500" cy="500" r="482" fill="none" stroke="#2f6b4f" stroke-width="2.5"/>
 <circle cx="500" cy="500" r="412" fill="none" stroke="#2f6b4f" stroke-width="1"/>
 <path id="bage-pg" d="M278,115.5 A444,444 0 0 1 722,115.5" fill="none"/>
@@ -81,14 +82,14 @@
 <text font-size="13.5" fill="#1f2328" dominant-baseline="central" style="text-decoration:none"><textPath href="#bage-grund" startOffset="50%" text-anchor="middle">Den sociala grunden – alla människors grundbehov</textPath></text>
 </a></g>
 <g id="manniskan"><a href="../../Samhällsutforskaren/Människan/Människan.md">
-<circle cx="500" cy="500" r="98" fill="#fff"/>
+<circle cx="500" cy="500" r="98" fill="#fff4d6"/>
 <g fill="#2f6b4f"><circle cx="500" cy="448" r="8"/><path d="M488,478 q0,-18 12,-18 q12,0 12,18 z"/><circle cx="480" cy="453" r="6"/><path d="M471,476 q0,-14 9,-14 q9,0 9,14 z"/><circle cx="520" cy="453" r="6"/><path d="M511,476 q0,-14 9,-14 q9,0 9,14 z"/></g>
 <text x="500" y="512" font-size="25" font-weight="800" fill="#2f6b4f" text-anchor="middle">MÄNNISKAN</text>
 <text x="500" y="540" font-size="15" fill="#1f2328" text-anchor="middle" style="text-decoration:none">i det hållbara</text>
 <text x="500" y="559" font-size="15" fill="#1f2328" text-anchor="middle" style="text-decoration:none">samhället</text>
 </a></g>
 <g id="ramverk">
-<rect x="150" y="1012" width="700" height="118" rx="14" fill="#fff" stroke="#2f6b4f" stroke-width="2"/>
+<rect x="150" y="1012" width="700" height="118" rx="14" fill="#e4efe6" stroke="#2f6b4f" stroke-width="2"/>
 <a href="../../Samhällsutforskaren/Ramverk/Ramverk.md"><text x="500" y="1046" font-size="19" font-weight="700" fill="#2f6b4f" text-anchor="middle" letter-spacing="1">RAMVERK</text></a>
 <g id="ramverk-sdgs"><a href="../../Samhällsutforskaren/Ramverk/FNs SDGs/FNs SDGs.md">
 <circle cx="208" cy="1090" r="19" fill="none" stroke="#1f2328" stroke-width="5" stroke-dasharray="5.2 1.83"/>

@@ -2,7 +2,7 @@
 
 ## Vad visar kartan?
 
-Samhällskartan är en förenklad bild av samhället. Den visar de fyra samhällssystemen, hur de hänger ihop och vilka ramar de måste hålla sig inom. Varje del av kartan är en länk till den sida som förklarar den.
+Samhällskartan är en förenklad bild av samhället. Den visar de fyra samhällssystemen, hur de hänger ihop och vilka ramar de måste hålla sig inom. Varje del av kartan är en länk till den sida som förklarar den. De understrukna namnen är länkar, precis som i texten. Färgerna skiljer systemen åt, men det är understrykningen som visar var du kan klicka.
 
 ## Varför står människan i mitten?
 
