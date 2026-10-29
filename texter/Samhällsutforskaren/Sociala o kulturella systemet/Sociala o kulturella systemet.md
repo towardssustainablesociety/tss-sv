@@ -4,15 +4,15 @@ Mycket av det som håller ihop ett samhälle syns inte i någon statistik. Tilli
 
 Men när man försöker förstå hur vi lever tillsammans uppstår frågor:
 
-Vad behöver en människa för att leva ett gott liv?
+- Vad behöver en människa för att leva ett gott liv?
 
-Blir vi lyckligare av att bli rikare?
+- Blir vi lyckligare av att bli rikare?
 
-Är man en dålig medborgare om man nöjer sig med lite?
+- Är man en dålig medborgare om man nöjer sig med lite?
 
-Varför litar vi på varandra, och vad händer när tilliten försvinner?
+- Varför litar vi på varandra, och vad händer när tilliten försvinner?
 
-Och hur kan vi leva tillsammans när vi är så olika?
+- Och hur kan vi leva tillsammans när vi är så olika?
 
 Här utgår TSS från sådana frågor. Varje grupp samlar frågor som hänger ihop och försöker ge begripliga svar. Svaren beskriver hur det ser ut i dag, varför det är så och vad som kan bli annorlunda.
 

@@ -22,7 +22,7 @@ De nio planetära gränserna gäller:
 
 - nya kemiska ämnen och andra ämnen som människan har skapat
 
-Alla nio gränser bedömdes för första gången i en vetenskaplig sammanställning 2023. Då var sex av nio överskridna. Enligt Planetary Health Check 2025 är sju av nio nu överskridna, sedan också havsförsurningen har passerat sin gräns. Hur det står till med planeten beskrivs närmare på sidan Planetens tillstånd i Ekologiska systemet.
+Alla nio gränser bedömdes för första gången i en vetenskaplig sammanställning 2023. Då var sex av nio överskridna. Enligt Planetary Health Check 2025 är sju av nio nu överskridna, sedan också havsförsurningen har passerat sin gräns. Hur det står till med planeten beskrivs närmare på sidan [Planetens tillstånd](<../../Ekologiska systemet/Planetens tillstånd/Planetens tillstånd.md>) i Ekologiska systemet.
 
 ## Planetära gränser i TSS
 

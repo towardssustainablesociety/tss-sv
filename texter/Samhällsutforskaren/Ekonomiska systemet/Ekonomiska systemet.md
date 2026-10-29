@@ -4,15 +4,15 @@ Ekonomi framställs ofta som något tekniskt, ett system av siffror, modeller oc
 
 Men när man försöker förstå ekonomin uppstår frågor:
 
-Varför måste ekonomin växa?
+- Varför måste ekonomin växa?
 
-Var kommer pengarna ifrån?
+- Var kommer pengarna ifrån?
 
-Varför har vissa människor så mycket mer än andra?
+- Varför har vissa människor så mycket mer än andra?
 
-Kan ekonomin växa utan att planeten tar skada?
+- Kan ekonomin växa utan att planeten tar skada?
 
-Och vem bestämmer egentligen vart ekonomin är på väg?
+- Och vem bestämmer egentligen vart ekonomin är på väg?
 
 Här utgår TSS från sådana frågor. Varje grupp samlar frågor som hänger ihop och försöker ge begripliga svar. Svaren beskriver hur dagens system fungerar, vilka konsekvenser det får och vilka möjligheter till förändring som finns.
 

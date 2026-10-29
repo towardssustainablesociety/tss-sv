@@ -16,7 +16,7 @@ Några av frågorna:
 
 - Vem talar för dem som inte är födda än?
 
-Välj en fråga i listan sist på sidan, eller börja med Val o partier.
+Välj en fråga i listan sist på sidan, eller börja med [Val o partier](<Val o partier/Val o partier.md>).
 
 ## Kopplingar till andra delar av samhället
 

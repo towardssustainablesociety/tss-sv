@@ -10,7 +10,7 @@ Visionen om ett hållbart samhälle ger en gemensam riktning. Den kan samla män
 
 ## Visionen som grund för TSS
 
-Visionen är TSS:s kärna och röda tråd. Den ger en gemensam utgångspunkt för att förstå dagens samhälle, identifiera systembrister och undersöka vilka förändringar som kan föra utvecklingen i en mer hållbar riktning.
+Visionen är kärnan och den röda tråden i TSS. Den ger en gemensam utgångspunkt för att förstå dagens samhälle, identifiera systembrister och undersöka vilka förändringar som kan föra utvecklingen i en mer hållbar riktning.
 
 Visionen handlar inte bara om vilket samhälle vi vill ha, utan också om hur vi utvecklar det. Samhällets organisation, ekonomi och politiska beslut behöver bidra till att människors behov tillgodoses och att utvecklingen ryms inom planetens ekologiska förutsättningar.
 

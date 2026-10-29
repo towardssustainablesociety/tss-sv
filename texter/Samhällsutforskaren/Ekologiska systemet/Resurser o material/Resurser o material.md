@@ -12,7 +12,7 @@ Bilden ändras dessutom när man ser framåt. De rika länderna har byggt sina s
 
 Ofta, ja. Det är ett av tillväxtanhängarnas starkaste argument. När en resurs blir knapp stiger priset. Då blir det lönsamt att leta efter nya fyndigheter, använda resursen effektivare eller ersätta den med något annat. Ett känt exempel är vadet 1980 mellan ekonomen Julian Simon och biologen Paul Ehrlich om priset på fem metaller. Ehrlich trodde att priserna skulle stiga när metallerna blev knappare. De sjönk, och Simon vann.
 
-Men mekanismen fungerar bara för det som har ett pris. Fisken i havet, grundvattnet, pollinerarna och atmosfärens förmåga att ta emot koldioxid saknar oftast pris, eller har ett pris som inte speglar skadan. Där säger marknaden ingenting förrän det är för sent, som när torsken försvann utanför Newfoundland.
+Men mekanismen fungerar bara för det som har ett pris. Fisken i havet, grundvattnet, pollinerarna och atmosfärens förmåga att ta emot koldioxid saknar oftast pris, eller har ett pris som inte speglar skadan. Där säger marknaden ingenting förrän det är för sent, som när torsken försvann utanför Newfoundland. Vem som äger naturen, och vem som ska få värdet av den, tas upp på sidan [Ägande o grundtrygghet – Ekonomiska systemet](<../../Ekonomiska systemet/Ägande o grundtrygghet/Ägande o grundtrygghet.md>).
 
 Marknaden är alltså bra på att hantera knapphet på det som säljs, men dålig på att skydda det som inte gör det.
 

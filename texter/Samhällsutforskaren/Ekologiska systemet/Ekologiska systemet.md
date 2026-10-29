@@ -4,15 +4,15 @@ Naturen ger oss mat, vatten, material och energi, och den tar hand om mycket av 
 
 Men när man försöker förstå samhällets relation till naturen uppstår frågor:
 
-Är vi verkligen så beroende av naturen?
+- Är vi verkligen så beroende av naturen?
 
-Hur illa är det egentligen ställt med planeten?
+- Hur illa är det egentligen ställt med planeten?
 
-Tar resurserna slut?
+- Tar resurserna slut?
 
-Kan inte tekniken lösa problemen?
+- Kan inte tekniken lösa problemen?
 
-Och vad har det med mig att göra?
+- Och vad har det med mig att göra?
 
 Här utgår TSS från sådana frågor. Varje grupp samlar frågor som hänger ihop och försöker ge begripliga svar. Svaren beskriver hur naturen fungerar, hur samhället påverkar den och vilka möjligheter till förändring som finns.
 

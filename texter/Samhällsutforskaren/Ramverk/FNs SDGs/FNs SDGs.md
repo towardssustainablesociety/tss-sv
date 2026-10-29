@@ -8,7 +8,7 @@ Agenda 2030 är den gemensamma handlingsram som antogs för att omsätta riktnin
 
 ## SDGs som grund för TSS
 
-TSS utgår från visionen om ett hållbart samhälle och använder de globala hållbarhetsområdena i FN:s SDGs som en viktig grund för att beskriva vad en sådan utveckling behöver omfatta. Att visionen har stöd i FN, och i den svenska grundlagen, beskrivs på sidan Visionen.
+TSS utgår från visionen om ett hållbart samhälle och använder de globala hållbarhetsområdena i FN:s SDGs som en viktig grund för att beskriva vad en sådan utveckling behöver omfatta. Att visionen har stöd i FN, och i den svenska grundlagen, beskrivs på sidan [Visionen](<../../../Vårt samhälle/Visionen/Visionen.md>).
 
 SDGs ger en internationellt förankrad grund för områden som fattigdom, hälsa, utbildning, jämlikhet, arbete, konsumtion, klimat, ekosystem, fred och institutioner.
 

@@ -14,6 +14,8 @@ Samtidigt behöver samhället arbete för att producera varor och tjänster och 
 
 Inget företag anställer dock för att skapa jobb. Arbete köps när det lönar sig. Eftersom arbete beskattas betydligt hårdare än maskiner lönar det sig ofta mer att automatisera eller att flytta produktionen till ett land med lägre löner.
 
+Det betyder inte att alla måste ha lönearbete. Den som kan förväntas bidra till det alla behöver, på många sätt och inte bara genom ett jobb.
+
 Men det betyder inte att varje tänkbart arbete måste skapas. Den intressanta frågan är snarare vilket arbete som faktiskt behövs och hur samhället vill fördela det.
 
 ## Hur mycket måste vi arbeta?

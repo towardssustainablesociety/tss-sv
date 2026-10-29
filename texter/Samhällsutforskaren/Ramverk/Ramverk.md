@@ -12,11 +12,11 @@ Ramverket är inte ett femte samhällssystem. Det ligger över de fyra samhälls
 
 ## De tre delarna i Ramverket
 
-[FN:s SDGs](<FNs SDGs/FNs SDGs.md>) – vad en hållbar samhällsutveckling behöver omfatta.
+- [FN:s SDGs](<FNs SDGs/FNs SDGs.md>) – vad en hållbar samhällsutveckling behöver omfatta.
 
-[Doughnut Economics](<Doughnut Economics/Doughnut Economics.md>) – hur människors behov och planetens gränser kan förstås tillsammans.
+- [Doughnut Economics](<Doughnut Economics/Doughnut Economics.md>) – hur människors behov och planetens gränser kan förstås tillsammans.
 
-[Planetära gränser](<Planetära gränser/Planetära gränser.md>) – vilka ekologiska villkor som behöver respekteras.
+- [Planetära gränser](<Planetära gränser/Planetära gränser.md>) – vilka ekologiska villkor som behöver respekteras.
 
 De tre delarna kompletterar varandra och kopplas till Människan och de fyra samhällssystemen.
 

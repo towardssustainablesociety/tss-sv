@@ -46,6 +46,8 @@ Ta ett exempel. I dag behöver ekonomin växa för att arbetstillfällena ska r�
 
 Kedjan går åt andra hållet också. När naturen tar skada, till exempel genom torka eller översvämningar, slår det mot ekonomin, mot människors trygghet och mot förtroendet för dem som styr.
 
+Ibland förstärker kedjan sig själv. Torkan gör skördarna dyrare, oron ökar, och det blir svårare att enas om åtgärder. Det kallas **återkoppling**, och det är därför små förändringar ibland får stora följder.
+
 Därför går det sällan att lösa ett problem i ett system i taget. Den som bara ser en del riskerar att flytta problemet i stället för att lösa det.
 
 ## Varför är det så svårt att ändra?
