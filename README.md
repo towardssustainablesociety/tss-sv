@@ -18,8 +18,9 @@ Byggskripten i `bygg/` omfattas av samma licens.
 
 | Mapp | Innehåll |
 |---|---|
-| `texter/` | Webbplatsens sidor i markdown, en mapp per sida. Filen heter som mappen, till exempel `texter/Samhällsutforskaren/Ekologiska systemet/Naturens kretslopp/Naturens kretslopp.md`. Bilder ligger som PNG i sidans mapp. |
+| `texter/` | Webbplatsens sidor i markdown, en mapp per sida. Filen heter som mappen, till exempel `texter/Samhällsutforskaren/Ekologiska systemet/Naturens kretslopp/Naturens kretslopp.md`. Bilder ligger som PNG i sidans mapp. Samhällskartan är en SVG med länkar (`texter/Vårt samhälle/Samhällskartan/Samhällskartan.svg`). |
 | `texter/Sidordning.md` | Alla sidor i den ordning de visas. Navigeringen på webbplatsen (toppmenyn, raden som visar var man är och listan över sidorna sist) byggs av mallen utifrån mapparna och den här filen. |
+| `forvaltning/` | Underlag för förvaltningen, till exempel objektregistret för Samhällskartan. |
 | `bygg/` | `bygg.py` gör om texterna till en statisk webbplats. `mall.html` är sidmallen och `stil.css` utseendet. |
 | `.github/workflows/publicera.yml` | Bygger och publicerar webbplatsen på GitHub Pages vid varje ändring i `main`. |
 
@@ -37,7 +38,7 @@ Texterna i förrådet är originalet sedan 2026-10-28. Före dess var originalet
 
 1. Varje sida görs om från markdown till HTML med pandoc.
 2. Länkar till andra sidfiler blir webbplatsens egna adresser, till exempel `/samhallsutforskaren/ekologiska-systemet/naturens-kretslopp/`. Externa länkar öppnas i en ny flik.
-3. Bilderna kopieras till webbplatsen.
+3. Bilderna kopieras till webbplatsen. En SVG-bild läggs in direkt i sidan, så att länkarna i den fungerar.
 4. Bygget skriver också sitemap, robots.txt och CNAME, och listar problem i loggen för körningen: länkar som inte hittar sin sida, bilder som saknas och sidor som saknas eller står fel i `Sidordning.md`.
 
 Bygga själv (kräver pandoc och Python 3.10 eller senare):
