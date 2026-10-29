@@ -1,24 +1,24 @@
 <!doctype html>
-<html lang="sv">
+<html lang="{{LANG}}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{TITLE}}</title>
 <meta name="description" content="{{DESC}}">
 {{ROBOTS}}
-<link rel="canonical" href="{{CANON}}">
+<link rel="canonical" href="{{CANON}}">{{HREFLANG}}
 <meta property="og:title" content="{{TITLE}}">
 <meta property="og:description" content="{{DESC}}">
 <meta property="og:image" content="{{OGIMG}}">
 <meta property="og:url" content="{{CANON}}">
 <meta property="og:type" content="website">
-<meta property="og:locale" content="sv_SE">
+<meta property="og:locale" content="{{LOCALE}}">
 <link rel="stylesheet" href="{{UP}}stil.css">
 </head>
 <body>
 <header class="site"><div class="bar"><a class="logo" href="{{HOME}}">{{SITE}}</a>
-<nav class="top" aria-label="Huvudmeny">
-{{TOP}}
+<nav class="top" aria-label="{{MENY}}">
+{{TOP}}{{SPRAKLANK}}
 </nav></div></header>
 <main>
 {{CRUMBS}}
@@ -29,8 +29,8 @@
 {{SECTION}}
 </main>
 <footer class="site">
-<p><a href="{{HOME}}">{{SITE}}</a> · <a href="{{KONTAKT}}">Kontakt</a>{{FORRAD}}</p>
-<p>Texterna och bilderna får användas och byggas vidare på enligt <a rel="license" href="{{LICENS}}">CC BY-SA 4.0</a>.</p>
+<p><a href="{{HOME}}">{{SITE}}</a> · <a href="{{KONTAKT}}">{{KONTAKTNAMN}}</a>{{FORRAD}}{{WWW}}</p>
+<p>{{LICENSTEXT}} <a rel="license" href="{{LICENS}}">CC BY-SA 4.0</a>.</p>
 </footer>
 </body>
 </html>

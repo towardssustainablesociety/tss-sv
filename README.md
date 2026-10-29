@@ -20,7 +20,7 @@ Byggskripten i `bygg/` omfattas av samma licens.
 |---|---|
 | `texter/` | Webbplatsens sidor i markdown, en mapp per sida. Filen heter som mappen, till exempel `texter/Samhällsutforskaren/Ekologiska systemet/Naturens kretslopp/Naturens kretslopp.md`. Bilder ligger som PNG i sidans mapp. Samhällskartan är en SVG med länkar (`texter/Vårt samhälle/Samhällskartan/Samhällskartan.svg`). |
 | `texter/Sidordning.md` | Alla sidor i den ordning de visas. Navigeringen på webbplatsen (toppmenyn, raden som visar var man är och listan över sidorna sist) byggs av mallen utifrån mapparna och den här filen. |
-| `forvaltning/` | Underlag för förvaltningen, till exempel objektregistret för Samhällskartan. |
+| `forvaltning/` | Underlag för förvaltningen: objektregistret för Samhällskartan och ordlistan svenska–engelska med namntabellen för TSS-en. |
 | `bygg/` | `bygg.py` gör om texterna till en statisk webbplats. `mall.html` är sidmallen och `stil.css` utseendet. |
 | `.github/workflows/publicera.yml` | Bygger och publicerar webbplatsen på GitHub Pages vid varje ändring i `main`. |
 
@@ -48,6 +48,8 @@ python3 bygg/bygg.py texter _site               # som på GitHub, skarp version
 python3 bygg/bygg.py texter _site --preview     # för att öppna filerna direkt i webbläsaren
 python3 bygg/bygg.py texter _site --noindex     # ber sökmotorer att inte indexera
 ```
+
+Samma skript bygger den engelska versionen, som har sina texter i [tss-en](https://github.com/towardssustainablesociety/tss-en): `--lang en`. Sidnamnen på engelska och alla termer står i `forvaltning/Ordlista svenska-engelska.md`. Med `--sprak` får varje sida en länk till motsvarande sida på det andra språket och en länk till språkvalet på www (slås på när båda språken är publicerade).
 
 ## Föreslå en ändring
 
