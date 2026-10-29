@@ -16,7 +16,7 @@ Och vem bestämmer egentligen vart ekonomin är på väg?
 
 Här utgår TSS från sådana frågor. Varje grupp samlar frågor som hänger ihop och försöker ge begripliga svar. Svaren beskriver hur dagens system fungerar, vilka konsekvenser det får och vilka möjligheter till förändring som finns.
 
-Välj en fråga som intresserar dig, högst upp på sidan, och börja där.
+Välj en fråga som intresserar dig i listan sist på sidan, och börja där.
 
 ## Kopplingar till andra delar av samhället
 
