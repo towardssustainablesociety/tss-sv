@@ -6,7 +6,7 @@ Munkens yttre kant, det **ekologiska taket**, beskriver de gränser som mänskli
 
 Mellan den sociala grunden och det ekologiska taket finns det som Doughnut Economics kallar ett **säkert och rättvist utrymme** för mänskligheten. Det är inom detta utrymme som människor kan tillgodose sina behov samtidigt som planetens livsuppehållande system bevaras.
 
-**Doughnut Economics i TSS**
+## Doughnut Economics i TSS
 
 I TSS kompletterar Doughnut Economics FN:s SDGs och Planetära gränser i Ramverket. SDGs hjälper till att beskriva vilka områden en hållbar samhällsutveckling behöver omfatta. Planetära gränser beskriver de ekologiska förutsättningar som behöver respekteras. Doughnut Economics knyter samman de sociala och ekologiska dimensionerna och visar utrymmet mellan dem.
 
@@ -16,7 +16,7 @@ När TSS talar om grundbehov är det den sociala grunden som avses. Hållbarhete
 
 Doughnut Economics är inte en parallell samhällsmodell i TSS. Den är en del av Ramverket och kan användas för att förstå och bedöma hur olika delar av samhället förhåller sig till både människors behov och planetens gränser. I Samhällskartan kan modellen relateras till Människan och till de fyra samhällssystemen.
 
-**Kopplingar till andra delar av samhället**
+## Kopplingar till andra delar av samhället
 
 - [Visionen – Vårt samhälle](<../../../Vårt samhälle/Visionen/Visionen.md>)
 
@@ -30,7 +30,7 @@ Doughnut Economics är inte en parallell samhällsmodell i TSS. Den är en del a
 
 - [Människan](<../../Människan/Människan.md>)
 
-**Externa källor**
+## Externa källor
 
 - [Raworth, A Doughnut for the Anthropocene: humanity's compass in the 21st century (The Lancet Planetary Health, 2017)](https://doughnuteconomics.org/tools/the-lancet-planetary-health-publication)
 

@@ -24,7 +24,7 @@ De nio planetära gränserna gäller:
 
 Alla nio gränser bedömdes för första gången i en vetenskaplig sammanställning 2023. Då var sex av nio överskridna. Enligt Planetary Health Check 2025 är sju av nio nu överskridna, sedan också havsförsurningen har passerat sin gräns. Hur det står till med planeten beskrivs närmare på sidan Planetens tillstånd i Ekologiska systemet.
 
-**Planetära gränser i TSS**
+## Planetära gränser i TSS
 
 För TSS beskriver Planetära gränser en grundläggande förutsättning för visionen om ett hållbart samhälle: samhällets utveckling behöver rymmas inom planetens ekologiska förutsättningar.
 
@@ -34,7 +34,7 @@ Planetära gränser har också en särskild roll i TSS. De är en del av Ramverk
 
 Planetära gränser är alltså inte en gräns för människors utveckling, utan ett sätt att förstå de ekologiska förutsättningar som all mänsklig utveckling är beroende av.
 
-**Kopplingar till andra delar av samhället**
+## Kopplingar till andra delar av samhället
 
 - [Planetens tillstånd – Ekologiska systemet](<../../Ekologiska systemet/Planetens tillstånd/Planetens tillstånd.md>)
 
@@ -48,7 +48,7 @@ Planetära gränser är alltså inte en gräns för människors utveckling, utan
 
 - [Människan](<../../Människan/Människan.md>)
 
-**Externa källor**
+## Externa källor
 
 - [Stockholm Resilience Centre, Planetary boundaries](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 

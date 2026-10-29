@@ -132,3 +132,6 @@ Samma ordning och samma mappindelning som `texter/Sidordning.md`. Det engelska n
 | folkbildning | adult popular education (*folkbildning*) | |
 | tillit | trust | |
 | tillväxtanhängaren | the growth advocate | |
+| bildning | learning (*bildning*) | *bildning* inom parentes första gången på sidan; "utbildning" = *education* |
+| skatteväxling | green tax shifting | |
+| styrmedel | policy instruments | |

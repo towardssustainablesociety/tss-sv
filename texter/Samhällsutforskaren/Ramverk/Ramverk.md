@@ -10,7 +10,7 @@ Ramverket beskriver vad hållbarheten kräver och var gränserna går. Att visio
 
 Ramverket är inte ett femte samhällssystem. Det ligger över de fyra samhällssystemen och kan användas för att förstå hur de tillsammans bidrar till samhällsutvecklingen.
 
-**De tre delarna i Ramverket**
+## De tre delarna i Ramverket
 
 [FN:s SDGs](<FNs SDGs/FNs SDGs.md>) – vad en hållbar samhällsutveckling behöver omfatta.
 
@@ -20,7 +20,7 @@ Ramverket är inte ett femte samhällssystem. Det ligger över de fyra samhälls
 
 De tre delarna kompletterar varandra och kopplas till Människan och de fyra samhällssystemen.
 
-**Kopplingar till andra delar av samhället**
+## Kopplingar till andra delar av samhället
 
 - [Visionen – Vårt samhälle](<../../Vårt samhälle/Visionen/Visionen.md>)
 

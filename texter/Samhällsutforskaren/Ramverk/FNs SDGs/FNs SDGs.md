@@ -6,7 +6,7 @@ SDGs är politiskt antagna, men de vilar på ett omfattande internationellt kuns
 
 Agenda 2030 är den gemensamma handlingsram som antogs för att omsätta riktningen i handling fram till 2030. SDGs beskriver vilka områden en hållbar utveckling behöver omfatta, medan Agenda 2030 anger ramen för arbetet med att förverkliga den.
 
-**SDGs som grund för TSS**
+## SDGs som grund för TSS
 
 TSS utgår från visionen om ett hållbart samhälle och använder de globala hållbarhetsområdena i FN:s SDGs som en viktig grund för att beskriva vad en sådan utveckling behöver omfatta. Att visionen har stöd i FN, och i den svenska grundlagen, beskrivs på sidan Visionen.
 
@@ -16,7 +16,7 @@ I TSS används SDGs inte som en parallell samhällsstruktur. I stället relatera
 
 SDGs är en av de tre delarna i Ramverket. Ramverket beskriver de grundläggande förutsättningarna för ett hållbart samhälle och ger en grund för Samhällskartan.
 
-**Kopplingar till andra delar av samhället**
+## Kopplingar till andra delar av samhället
 
 - [Visionen – Vårt samhälle](<../../../Vårt samhälle/Visionen/Visionen.md>)
 
@@ -30,7 +30,7 @@ SDGs är en av de tre delarna i Ramverket. Ramverket beskriver de grundläggande
 
 - [Människan](<../../Människan/Människan.md>)
 
-**Externa källor**
+## Externa källor
 
 - [FN, The 17 Goals](https://sdgs.un.org/goals)
 
