@@ -32,7 +32,7 @@ jobs:
         env:
           TSS_FORRAD: ${{ github.server_url }}/${{ github.repository }}
         run: |
-          python3 bygg/bygg.py texter _site | tee bygglogg.txt
+          python3 bygg/bygg.py texter _site --sprak | tee bygglogg.txt
           echo '### Bygget' >> "$GITHUB_STEP_SUMMARY"
           sed 's/^/    /' bygglogg.txt >> "$GITHUB_STEP_SUMMARY"
 
