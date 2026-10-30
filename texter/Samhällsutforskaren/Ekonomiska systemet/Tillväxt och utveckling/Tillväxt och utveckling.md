@@ -70,6 +70,8 @@ Hur mycket är då en rimlig andel? Om alla människor ska ha lika stort utrymme
 
 Nivåerna för 2030–2050 kommer från en internationell studie från 2019 om livsstilar som är förenliga med 1,5 grader. Naturvårdsverket anger ett liknande riktmärke: högst omkring 1 ton per person och år till 2050. För att nå en rimlig andel 2030 skulle svenskarnas utsläpp från konsumtionen behöva minska med ungefär två tredjedelar på några år. Det är långt snabbare än hittills.
 
+Det finns också sätt att få utsläppen att se mindre ut än de är. Inom EU:s utsläppshandel är det sällan ett problem: taket gäller hela EU, så det ett företag säljer kan ett annat bara använda inom samma tak. Annorlunda är det med **klimatkrediter**, där ett land eller ett företag betalar för utsläppsminskningar någon annanstans och räknar dem som sina egna. Sverige får nå målet om nettonollutsläpp 2045 delvis med sådana kompletterande åtgärder, så länge utsläppen inom landet har minskat med minst 85 procent jämfört med 1990. Till 2030 får de stå för högst åtta procentenheter av minskningen. Svårigheten är att veta om minskningen verkligen blir av. En genomgång av 2 346 klimatprojekt, publicerad 2024, fann att mindre än 16 procent av krediterna motsvarade verkliga utsläppsminskningar. Krediter kan vara ett tillskott, men de kan inte ersätta att utsläppen från det vi själva konsumerar minskar.
+
 Hur snabbt belastningen minskar avgörs därför inte i ekonomin ensam. Det avgörs av politiska beslut i det demokratiska systemet, av vad vi uppfattar som ett gott liv i det sociala systemet och av vad naturen tål i det ekologiska systemet. Sverige visar att frikoppling är möjlig, men inte att den räcker.
 
 ## Så vad är egentligen svaret?
@@ -119,6 +121,10 @@ Ett hållbart samhälle behöver därför kunna skapa trygghet, försörjning oc
 - [Naturvårdsverket, Konsumtionsbaserade utsläpp av växthusgaser i Sverige och andra länder](https://www.naturvardsverket.se/data-och-statistik/konsumtion/vaxthusgaser-konsumtionsbaserade-utslapp-i-sverige-och-andra-lander/)
 
 - [Naturvårdsverket, Klimatet och konsumtionen](https://www.naturvardsverket.se/amnesomraden/klimatomstallningen/omraden/klimatet-och-konsumtionen)
+
+- [Naturvårdsverket, Sveriges klimatmål och klimatpolitiska ramverk](https://www.naturvardsverket.se/amnesomraden/klimatomstallningen/sveriges-klimatarbete/sveriges-klimatmal-och-klimatpolitiska-ramverk/)
+
+- [Probst m.fl., Systematic assessment of the achieved emission reductions of carbon crediting projects (Nature Communications, 2024)](https://doi.org/10.1038/s41467-024-53645-z)
 
 - [IGES, Aalto-universitetet och D-mat, 1.5-Degree Lifestyles: Targets and options for reducing lifestyle carbon footprints (2019)](https://www.iges.or.jp/en/news/20190225)
 
