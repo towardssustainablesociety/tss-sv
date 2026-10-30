@@ -42,7 +42,7 @@ Det [demokratiska systemet](<../Samhällsutforskaren/Demokratiska systemet/Demok
 
 Tätare än det verkar. En förändring i ett system får nästan alltid följder i de andra.
 
-Ta ett exempel. I dag behöver ekonomin växa för att arbetstillfällena ska räcka. Arbetet ger inte bara inkomst utan också identitet och gemenskap, så när jobben försvinner blir det en social fråga. Därför vinner den som lovar jobb och tillväxt val. Och tillväxten har hittills krävt allt mer energi och material, som tas ur naturen. Fyra system, en enda kedja.
+Ta ett exempel. I dag behöver ekonomin växa för att arbetstillfällena ska räcka. Arbetet ger inte bara inkomst utan också identitet och gemenskap, så när jobben försvinner blir det en social fråga. Därför vinner den som lovar jobb och ekonomisk tillväxt val. Och BNP-tillväxten har hittills krävt allt mer energi och material, som tas ur naturen. Fyra system, en enda kedja.
 
 Kedjan går åt andra hållet också. När naturen tar skada, till exempel genom torka eller översvämningar, slår det mot ekonomin, mot människors trygghet och mot förtroendet för dem som styr.
 
@@ -84,7 +84,7 @@ Här föreslås inte vilken politik som ska föras för att nå dit. Det är dem
 
 ![Samhällskartan: de fyra samhällssystemen med människan i mitten, den sociala grunden och planetens gränser](<Samhällskartan/Samhällskartan.svg>)
 
-Så här ser hela bilden ut. I mitten står människan, omgiven av den sociala grunden och det ekologiska taket. Runt henne finns de fyra samhällssystemen och pilarna som visar sambanden mellan dem. Allt omsluts av planetens gränser. Längst ner finns Ramverket: FN:s globala mål, Doughnut Economics och de planetära gränserna. Varje del av kartan är en länk.
+Så här ser hela bilden ut. I mitten står människan, omgiven av den sociala grunden och det ekologiska taket. Runt henne finns de fyra samhällssystemen och pilarna som visar sambanden mellan dem. Allt omsluts av planetens gränser. Längst ner finns Ramverket: FN:s hållbarhetsområden (SDGs), Doughnut Economics och de planetära gränserna. Varje del av kartan är en länk.
 
 Härifrån kan du gå vidare på två sätt. [Samhällskartan](<Samhällskartan/Samhällskartan.md>) förklarar kartan del för del. I [Samhällsutforskaren](<../Samhällsutforskaren/Samhällsutforskaren.md>) väljer du ett system och en fråga som intresserar dig, och börjar där.
 

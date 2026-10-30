@@ -16,7 +16,7 @@ Gränsen är inte alltid skarp, och den flyttar sig med tiden. För femtio år s
 
 ## Blir vi inte lyckligare av att bli rikare?
 
-Jo, oftast, men det är inte hela svaret. Det här är ett av tillväxtens starkaste argument och det ska tas på allvar. För den som lever i fattigdom gör mer pengar en enorm skillnad. Även i rika länder mår människor i genomsnitt bättre ju högre inkomst de har. En stor amerikansk studie från 2023 fann ingen tydlig inkomstnivå där mer pengar slutar göra skillnad för de flesta.
+Jo, oftast, men det är inte hela svaret. Det här är ett av de starkaste argumenten för fortsatt ekonomisk tillväxt och det ska tas på allvar. För den som lever i fattigdom gör mer pengar en enorm skillnad. Även i rika länder mår människor i genomsnitt bättre ju högre inkomst de har. En stor amerikansk studie från 2023 fann ingen tydlig inkomstnivå där mer pengar slutar göra skillnad för de flesta.
 
 Men samma studie visade att för dem som redan mår dåligt planar välbefinnandet ut vid en viss inkomst. Pengar kan inte köpa bort ensamhet, sjukdom eller brist på mening. Dessutom jämför vi oss med varandra, och det som en gång kändes som lyx blir snart det normala.
 

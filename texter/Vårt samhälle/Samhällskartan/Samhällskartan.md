@@ -24,7 +24,7 @@ Det är planetens gränser: de nio processer i jordsystemet som tillsammans hål
 
 ## Var kommer kartan ifrån?
 
-Kartan bygger på kunskapen i Ramverket, längst ner i bilden: FN:s globala mål (SDGs), Doughnut Economics och de planetära gränserna. Ramverket beskriver vad hållbarheten kräver. Kartan visar var i samhället det ska åstadkommas.
+Kartan bygger på kunskapen i Ramverket, längst ner i bilden: FN:s hållbarhetsområden (SDGs), Doughnut Economics och de planetära gränserna. Ramverket beskriver vad hållbarheten kräver. Kartan visar var i samhället det ska åstadkommas.
 
 ## Gäller kartan bara för hela landet?
 

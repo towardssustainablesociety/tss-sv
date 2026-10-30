@@ -131,7 +131,24 @@ Samma ordning och samma mappindelning som `texter/Sidordning.md`. Det engelska n
 | klimatpolitiska ramverket | the Swedish climate policy framework | |
 | folkbildning | adult popular education (*folkbildning*) | |
 | tillit | trust | |
-| tillväxtanhängaren | the growth advocate | |
+| anhängare av fortsatt ekonomisk tillväxt | those who advocate continued economic growth | ersätter "tillväxtanhängaren" (2026-10-30) |
+| ekonomisk tillväxt, BNP-tillväxt | economic growth, GDP growth | "tillväxt" står aldrig ensamt (se Ordval nedan) |
+| befolkningstillväxt | population growth | |
+| FN:s hållbarhetsområden (SDGs) | the UN's sustainability areas (SDGs) | officiellt namn *Sustainable Development Goals*; se Ordval |
+| delområden (FN:s 169) | targets | i SDGs; "punkt 8.1" = *target 8.1* |
+| Agenda 2030, FN:s handlingsplan till 2030 | Agenda 2030, the UN's action plan up to 2030 | |
+| vision | vision | en riktning som man inte kan säga nej till |
+| mål | goal, target | bara om något med leverans och tidpunkt |
+| nollvisionen | Vision Zero | |
 | bildning | learning (*bildning*) | *bildning* inom parentes första gången på sidan; "utbildning" = *education* |
 | skatteväxling | green tax shifting | |
 | styrmedel | policy instruments | |
+
+## Ordval (Rolf 2026-10-30)
+
+Kontrollregler. Bygget varnar för "tillväxt"/"growth" utan bestämning.
+
+1. **"Tillväxt" står aldrig ensamt.** Skriv vad som växer: ekonomisk tillväxt (BNP), BNP-tillväxt, befolkningstillväxt, ökad materialanvändning, ökat välbefinnande. Kortformen BNP-tillväxt får användas när det är klart att det gäller ekonomin. Sammansättningar som "tillväxtanhängare" skrivs om. Undantag: sidnamnet Tillväxt och utveckling i länktexter. På engelska gäller samma regel för *growth*.
+2. **SDGs är inte mål i TSS text.** De kallas FN:s hållbarhetsområden (SDGs), *the UN's sustainability areas*. Det officiella namnet (*Sustainable Development Goals*, "de globala målen") nämns och förklaras på sidan FNs SDGs. De 169 *targets* heter delområden, och en enskild skrivs "punkt 8.1".
+3. **Agenda 2030** är FN:s handlingsplan (dagordning) till 2030, alltså den tidsatta delen.
+4. **Vision** är en riktning som man inte kan säga nej till (exempel: nollvisionen). **Mål** används bara om något som har leverans och tidpunkt, till exempel Sveriges klimatmål till 2045, eller när en källa själv använder ordet (regeringsformen, Wales välfärdsmål).

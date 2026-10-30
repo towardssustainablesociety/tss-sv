@@ -16,7 +16,7 @@ Vill du först se helheten kan du börja med [Vårt samhälle](<../Vårt samhäl
 
 - [Människan](<Människan/Människan.md>) – vi formas av samhället och formar det samtidigt.
 
-- [Ramverk](<Ramverk/Ramverk.md>) – FN:s globala mål, Doughnut Economics och de planetära gränserna.
+- [Ramverk](<Ramverk/Ramverk.md>) – FN:s hållbarhetsområden (SDGs), Doughnut Economics och de planetära gränserna.
 
 ## Några frågor att börja med
 

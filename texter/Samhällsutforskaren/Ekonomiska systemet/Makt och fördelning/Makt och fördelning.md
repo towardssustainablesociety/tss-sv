@@ -28,7 +28,7 @@ Genom att ägande, kapital eller kontroll över viktiga resurser samlas hos ett 
 
 Makt kan också förstärkas genom att ekonomiska resurser ger tillgång till nätverk, kunskap och positioner som i sin tur gör det lättare att påverka utvecklingen.
 
-Konkurrens brukar beskrivas som motsatsen till maktkoncentration. Den pressar priser och driver fram nya lösningar, och det är tillväxtanhängarnas starka argument. Men konkurrens har också vinnare, och vinnarna kan bli så stora att de köper upp eller slår ut sina konkurrenter. De största vinnarna är i dag multinationella koncerner med dotterbolag i många länder, vilket gör dem svåra både att beskatta och att styra för ett enskilt land. År 2022 flyttades omkring 35 procent av de multinationella företagens utlandsvinster till skatteparadis, enligt EU:s skatteobservatorium. Det motsvarar nästan tio procent av världens bolagsskatteintäkter. Länderna enades 2021 om en global minimiskatt på 15 procent, men i januari 2026 gick de med på att undanta amerikanska koncerner från viktiga delar av den.
+Konkurrens brukar beskrivas som motsatsen till maktkoncentration. Den pressar priser och driver fram nya lösningar, och det är ett starkt argument för fortsatt ekonomisk tillväxt. Men konkurrens har också vinnare, och vinnarna kan bli så stora att de köper upp eller slår ut sina konkurrenter. De största vinnarna är i dag multinationella koncerner med dotterbolag i många länder, vilket gör dem svåra både att beskatta och att styra för ett enskilt land. År 2022 flyttades omkring 35 procent av de multinationella företagens utlandsvinster till skatteparadis, enligt EU:s skatteobservatorium. Det motsvarar nästan tio procent av världens bolagsskatteintäkter. Länderna enades 2021 om en global minimiskatt på 15 procent, men i januari 2026 gick de med på att undanta amerikanska koncerner från viktiga delar av den.
 
 Koncentration behöver inte innebära att någon formellt bestämmer över hela ekonomin. Det kan räcka att vissa aktörer får betydligt större möjlighet att påverka än andra.
 
@@ -44,9 +44,9 @@ Ekonomin formas därför både av miljontals vardagliga beslut och av beslut fr�
 
 Inte alla lika mycket. Ekonomisk tillväxt kan ge ökade inkomster och skapa möjligheter till investeringar och utveckling, men vinsterna fördelas inte automatiskt lika.
 
-Vem som får del av ökade resurser påverkas bland annat av löner, ägande, skatter, investeringar och hur ekonomins institutioner är utformade. Tillväxt kan därför skapa mer resurser samtidigt som skillnaderna mellan människor består eller ökar.
+Vem som får del av ökade resurser påverkas bland annat av löner, ägande, skatter, investeringar och hur ekonomins institutioner är utformade. Ekonomisk tillväxt kan därför skapa mer resurser samtidigt som skillnaderna mellan människor består eller ökar.
 
-Fördelningen påverkar också naturen. Den rikaste tiondelen av världens befolkning stod 2019 för ungefär hälften av alla utsläpp från konsumtion, och den rikaste procenten för 16 procent. Frågan om tillväxt kan alltså inte skiljas från frågan om hur det som skapas fördelas, och vem som orsakar belastningen.
+Fördelningen påverkar också naturen. Den rikaste tiondelen av världens befolkning stod 2019 för ungefär hälften av alla utsläpp från konsumtion, och den rikaste procenten för 16 procent. Frågan om ekonomisk tillväxt kan alltså inte skiljas från frågan om hur det som skapas fördelas, och vem som orsakar belastningen.
 
 ## Hur påverkar ekonomisk makt demokratin?
 

@@ -6,7 +6,7 @@ Demokratin har en särskild roll bland de fyra samhällssystemen. Det är där d
 
 ## Hur hänger demokratin ihop med naturen, ekonomin och människorna?
 
-Den är beroende av alla tre. När naturen försvagas blir det fler kriser att hantera, som torka, översvämningar och strid om resurser, och de sätter demokratin under press. Ekonomin ger resurserna till det gemensamma, men ekonomisk makt blir också politisk makt, och ett tillväxtberoende begränsar vilka beslut som framstår som möjliga. Och utan tillit, bildning och rimliga livsvillkor deltar människor mindre och litar mindre på besluten.
+Den är beroende av alla tre. När naturen försvagas blir det fler kriser att hantera, som torka, översvämningar och strid om resurser, och de sätter demokratin under press. Ekonomin ger resurserna till det gemensamma, men ekonomisk makt blir också politisk makt, och ett beroende av ekonomisk tillväxt begränsar vilka beslut som framstår som möjliga. Och utan tillit, bildning och rimliga livsvillkor deltar människor mindre och litar mindre på besluten.
 
 Samtidigt påverkar demokratin alla tre. Det är demokratiska beslut som sätter priser på utsläpp, bestämmer skatterna och bygger välfärden. Beroendet går åt båda hållen, och därför kan demokratins hälsa inte skiljas från resten av samhällets.
 

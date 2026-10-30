@@ -188,9 +188,24 @@ def inline_svg(p, path, alt):
     s = s.replace('<svg ', f'<svg role="group" aria-label="{alt}" ', 1)
     return f'<figure class="karta">{s.strip()}</figure>'
 
+# ---- ordval: "tillväxt" står aldrig ensamt (Rolf 2026-10-30) ----
+ORDVAL = {'sv': (r'(?i)\b\w*tillväxt\w*', r'(?i)(ekonomisk[a]? |bnp-|befolknings)$'),
+          'en': (r'(?i)\bgrowth\b', r'(?i)(economic |gdp |population )$')}
+def ordval(p):
+    text = open(p['md'], encoding='utf-8').read()
+    text = re.split(r'\n## (Externa källor|External sources|Läs vidare|Further reading)', text)[0]
+    text = re.sub(r'\[[^\]]*\]\([^)]*\)', '', text)   # länktexter (sidnamn) räknas inte
+    text = text.replace('Tillväxt och utveckling', '').replace('Growth and Development', '')   # sidnamnet
+    ord_, fore = ORDVAL[LANG]
+    for m in re.finditer(ord_, text):
+        if not re.search(fore, text[max(0, m.start() - 12):m.start()]):
+            tips = 'ekonomisk tillväxt, BNP-tillväxt, befolkningstillväxt …' if LANG == 'sv' else 'economic growth, GDP growth, population growth …'
+            problems.append(f'{p["name"]}: "{m.group(0)}" utan bestämning ({tips})')
+
 # ---- brödtext ----
 linked = collections.Counter()   # sida -> antal länkar från andra sidor
 def body(p):
+    ordval(p)
     h = pandoc(p['md'])
     def link(m):
         url, rest = html.unescape(m.group(1)), m.group(2)

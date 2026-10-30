@@ -6,7 +6,15 @@ För TSS är ett hållbart samhälle inte ett färdigt tillstånd eller en punkt
 
 Visionen om ett hållbart samhälle ger en gemensam riktning. Den kan samla människor med olika erfarenheter, roller och uppfattningar kring något som i grunden är svårt att motsätta sig: att utveckla ett samhälle som är hållbart.
 
-*Det är svårt att föreställa sig att någon skulle ha som mål att utveckla ett ohållbart samhälle.*
+*Det är svårt att föreställa sig att någon skulle vilja utveckla ett ohållbart samhälle.*
+
+## Vad är skillnaden mellan en vision och ett mål?
+
+Ett **mål** har en leverans, en tidpunkt och någon som ansvarar för att det blir gjort. En **vision** är en riktning som man inte kan säga nej till. Den behöver inte vara uppnådd vid en viss tidpunkt för att vara rätt.
+
+Nollvisionen för trafiken är ett bra exempel. Claes Tingvall på Vägverket presenterade idén 1995: ingen ska dö eller skadas allvarligt i trafiken. Den fick kritik från många håll, eftersom den aldrig skulle gå att uppfylla. Tingvall svarade med en motfråga: hur många ska vi tillåta att dö i trafiken? Det finns bara ett svar som går att försvara. Riksdagen ställde sig bakom nollvisionen 1997. Sedan dess har den styrt hur vägar och fordon utformas, och under de senaste 25 åren har antalet döda i vägtrafiken minskat med omkring 65 procent, samtidigt som trafiken har ökat med omkring 20 procent.
+
+På samma sätt fungerar visionen om ett hållbart samhälle. Ingen vill ha ett ohållbart samhälle, och på vägen dit kan man sätta mål, till exempel Sveriges klimatmål till 2045.
 
 ## Visionen som grund för TSS
 
@@ -24,7 +32,7 @@ Det handlar inte om att på den här sidan bestämma exakt hur trygghetssystem e
 
 Visionen är inte TSS egen uppfinning. Den har redan ställts upp av dem som har mandat att göra det, både internationellt och i Sverige.
 
-Internationellt uttrycks den i FN:s Sustainable Development Goals, SDGs, som är en del av Agenda 2030. Agenda 2030 antogs av FN:s samtliga medlemsländer 2015. SDGs ger en internationellt förankrad grund för att beskriva vad en utveckling mot ett hållbart samhälle behöver omfatta.
+Internationellt bygger den på FN:s 17 hållbarhetsområden, SDGs (*Sustainable Development Goals*). De ingår i Agenda 2030, FN:s handlingsplan till 2030, som antogs av samtliga medlemsländer 2015. SDGs ger en internationellt förankrad grund för att beskriva vad en utveckling mot ett hållbart samhälle behöver omfatta. Varför TSS kallar dem hållbarhetsområden och inte mål förklaras på sidan [FNs SDGs](<../../Samhällsutforskaren/Ramverk/FNs SDGs/FNs SDGs.md>).
 
 I Sverige står den i grundlagen. Regeringsformen säger att den enskildes personliga, ekonomiska och kulturella välfärd ska vara grundläggande mål för den offentliga verksamheten. Den säger också att det allmänna ska främja en hållbar utveckling som leder till en god miljö för nuvarande och kommande generationer. Det är samma bild som i Doughnut Economics: en social grund som ingen ska hamna under och ett ekologiskt tak som ingen generation får bryta igenom.
 
@@ -38,4 +46,4 @@ Det som [Ramverket](<../../Samhällsutforskaren/Ramverk/Ramverk.md>) säger om g
 
 ## Läs vidare
 
-[FN, Sustainable Development Goals](https://sdgs.un.org/goals) [FN, Agenda 2030 (2015)](https://sdgs.un.org/2030agenda) [Doughnut Economics](https://doughnuteconomics.org/doughnut) [Regeringsformen, 1 kap. 2 § (lagen.nu)](https://lagen.nu/1974:152)
+[FN, Sustainable Development Goals](https://sdgs.un.org/goals) [FN, Agenda 2030 (2015)](https://sdgs.un.org/2030agenda) [Doughnut Economics](https://doughnuteconomics.org/doughnut) [Regeringsformen, 1 kap. 2 § (lagen.nu)](https://lagen.nu/1974:152) [Trafikverket, Nollvisionens fader får fin utmärkelse (2025)](https://www.trafikverket.se/om-oss/nyheter/nationella-nyheter/2025/november/nollvisionens-fader-far-fin-utmarkelse/)

@@ -28,7 +28,7 @@ Och för det tredje omställningens rättvisa. En förändring som ökar orättv
 
 Genom att mäta det som spelar roll för människor, inte bara det som syns i BNP. Får alla sina grundbehov mötta? Kan barn få andra möjligheter än sina föräldrar? Litar människor på varandra och på institutionerna? Mår de bra?
 
-Sådana mått behöver följas över tid och ställas mot de ekologiska gränserna. När utvecklingen går åt fel håll behöver samhället kunna rätta kursen. Hur ekonomins framgång kan mätas på andra sätt än med BNP tas upp i Tillväxt och utveckling i Ekonomiska systemet.
+Sådana mått behöver följas över tid och ställas mot de ekologiska gränserna. När utvecklingen går åt fel håll behöver samhället kunna rätta kursen. Hur ekonomins framgång kan mätas på andra sätt än med BNP tas upp på sidan [Tillväxt och utveckling – Ekonomiska systemet](<../../Ekonomiska systemet/Tillväxt och utveckling/Tillväxt och utveckling.md>).
 
 ## Vem bestämmer vilken riktning det sociala systemet ska ha?
 

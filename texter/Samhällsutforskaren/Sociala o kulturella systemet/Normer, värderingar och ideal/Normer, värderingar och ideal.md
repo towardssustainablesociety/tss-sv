@@ -14,7 +14,7 @@ Om framgång främst visas som individuell prestation och hög konsumtion blir a
 
 Därför att de känns självklara. Vi lär oss dem tidigt och möter dem överallt. De upprätthålls inte bara av regler, utan av uppskattning, kritik, vanor och rädsla för att avvika.
 
-Det gör det svårt att se alternativen. Om tillväxt, konkurrens och ständigt ökande produktivitet behandlas som självklara mål blir det svårt att ens ställa frågan om vad som faktiskt bidrar till ett gott liv.
+Det gör det svårt att se alternativen. Om ekonomisk tillväxt, konkurrens och ständigt ökande produktivitet behandlas som självklara mål blir det svårt att ens ställa frågan om vad som faktiskt bidrar till ett gott liv.
 
 ## Är det inte var och ens sak hur man vill leva?
 

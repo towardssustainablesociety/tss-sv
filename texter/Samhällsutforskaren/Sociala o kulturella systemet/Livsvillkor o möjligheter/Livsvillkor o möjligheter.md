@@ -18,7 +18,7 @@ Brist på resurser gör det också svårare att påverka beslut. Då riskerar de
 
 ## Är inte ojämlikhet priset för välstånd?
 
-Delvis, men sambandet är svagare än det ofta låter. Tillväxtanhängarens argument är att skillnader skapar drivkrafter: den som kan tjäna mer anstränger sig mer, och kakan blir större för alla. Det finns något i det. Ett samhälle där alla får exakt samma oavsett insats skulle sannolikt fungera dåligt.
+Delvis, men sambandet är svagare än det ofta låter. Argumentet för skillnader är att de skapar drivkrafter: den som kan tjäna mer anstränger sig mer, och kakan blir större för alla. Det finns något i det. Ett samhälle där alla får exakt samma oavsett insats skulle sannolikt fungera dåligt.
 
 Men de nordiska länderna har länge kombinerat jämförelsevis små skillnader med högt välstånd och hög social rörlighet. Det tyder på att stora skillnader inte är en förutsättning för välstånd. Stora skillnader i förmögenhet riskerar dessutom att bli skillnader i makt, vilket beskrivs närmare i Makt och fördelning i Ekonomiska systemet.
 

@@ -1,12 +1,12 @@
 ## Varför skapades TSS?
 
-Jag har arbetat med IT sedan 1969 och trodde länge att automatiseringen skulle minska behovet av arbete. Så blev det inte. Vi skapade nya arbeten i stället, och tillväxten blev ett mål i sig. På 80- eller 90-talet sa min son, då tonåring, att arbete var överreklamerat. Tanken stannade kvar.
+Jag har arbetat med IT sedan 1969 och trodde länge att automatiseringen skulle minska behovet av arbete. Så blev det inte. Vi skapade nya arbeten i stället, och den ekonomiska tillväxten blev ett mål i sig. På 80- eller 90-talet sa min son, då tonåring, att arbete var överreklamerat. Tanken stannade kvar.
 
 Ur den växte fler frågor. Varför måste ekonomin hela tiden växa? Vad gör det med naturen? Och vem har ansvar för helheten?
 
 ## Var kommer idéerna ifrån?
 
-Ramen för helheten finns i FN:s globala mål och i Doughnut Economics. De visade att det fanns liknande tankar internationellt, och de gav min egen vision en fastare grund. En bok som tar ett stort grepp är *En jord för alla* av Johan Rockström med flera.
+Ramen för helheten finns i FN:s hållbarhetsområden (SDGs) och i Doughnut Economics. De visade att det fanns liknande tankar internationellt, och de gav min egen vision en fastare grund. En bok som tar ett stort grepp är *En jord för alla* av Johan Rockström med flera.
 
 ## Hur växte TSS fram?
 

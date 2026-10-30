@@ -24,7 +24,7 @@ Många, och de går ofta in i varandra. Det finns ekonomiska spänningar om inko
 
 Många av dem är inbyggda i själva samhällsbygget: land och stad, stor eller liten välfärd, vad som ska ägas privat och vad som ska vara gemensamt. Ingen av dessa spänningar är ett problem i sig. Problemet uppstår när samhället saknar sätt att hantera dem.
 
-Det finns också systemiska spänningar, när sättet ett system fungerar på skapar problem som andra delar av samhället får bära. En ekonomi som är beroende av tillväxt kan till exempel skapa spänningar mot naturens gränser, som till slut blir sociala och politiska.
+Det finns också systemiska spänningar, när sättet ett system fungerar på skapar problem som andra delar av samhället får bära. En ekonomi som är beroende av ekonomisk tillväxt kan till exempel skapa spänningar mot naturens gränser, som till slut blir sociala och politiska.
 
 ## Skapar omställningen nya spänningar?
 

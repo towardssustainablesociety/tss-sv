@@ -34,7 +34,7 @@ Därför att skattesystemet byggdes för att finansiera välfärden med arbete. 
 
 Vinsten beskattas lika oavsett om den kommer från människor eller maskiner. Men en anställd medför dessutom arbetsgivaravgifter på 31,42 procent av lönen och inkomstskatt, medan en maskin inte gör det, och investeringen får skrivas av. Ersätter ett företag en anställd med en maskin, eller flyttar jobbet till ett låglöneland, förlorar staten därför mycket mer i skatt än den får tillbaka i bolagsskatt. Inget företag anställer heller för att skapa jobb. Arbete köps när det lönar sig.
 
-Tillväxtanhängarens invändning är att högre skatt på kapital och maskiner får företag att flytta och försämrar konkurrenskraften. Det är en verklig risk för ett litet exportberoende land. Därför diskuteras andra vägar: att beskatta det som belastar naturen, som energi, material och utsläpp, mer och arbete mindre. Det kallas **skatteväxling**. Andra förslag är skatt på automatiserad produktion, så kallad robotskatt, eller på data och digitala tjänster.
+Invändningen från dem som sätter ekonomisk tillväxt först är att högre skatt på kapital och maskiner får företag att flytta och försämrar konkurrenskraften. Det är en verklig risk för ett litet exportberoende land. Därför diskuteras andra vägar: att beskatta det som belastar naturen, som energi, material och utsläpp, mer och arbete mindre. Det kallas **skatteväxling**. Andra förslag är skatt på automatiserad produktion, så kallad robotskatt, eller på data och digitala tjänster.
 
 Poängen är att dagens skattesystem gör det dyrt att använda det samhället har gott om, människors arbete, och billigt att använda det planeten har ont om, energi och material.
 

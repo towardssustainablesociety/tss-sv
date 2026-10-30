@@ -10,7 +10,7 @@ Ekonomen Kate Raworth har beskrivit det som en munk, **Doughnut Economics**. Den
 
 Nej. Samhället kan utvecklas genom bättre hälsa, utbildning, trygghet, gemenskap, kunskap och fungerande samhällsfunktioner, utan att all utveckling behöver innebära mer produktion och konsumtion.
 
-Samtidigt är ekonomisk tillväxt fortfarande en viktig del av hur dagens system fungerar. Ett samhälle som vill minska sitt beroende av tillväxt behöver därför också förändra de mekanismer som gör arbete, försörjning, investeringar och offentlig ekonomi beroende av fortsatt ekonomisk expansion.
+Samtidigt är ekonomisk tillväxt fortfarande en viktig del av hur dagens system fungerar. Ett samhälle som vill minska det beroendet behöver därför också förändra de mekanismer som gör arbete, försörjning, investeringar och offentlig ekonomi beroende av fortsatt ekonomisk expansion.
 
 ## Kan ekonomin ge människor trygghet utan att belasta planeten för mycket?
 

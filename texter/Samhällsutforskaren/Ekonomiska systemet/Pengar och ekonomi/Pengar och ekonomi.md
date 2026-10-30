@@ -46,7 +46,7 @@ Då kan hela ekonomin bromsa in. När många vill betala av samtidigt försvinne
 
 Sverige har upplevt det. När regleringen av bankernas utlåning togs bort 1985 växte lånen snabbt, och mycket gick till fastigheter och aktier. På ungefär fem år ökade den privata sektorns skulder från 85 till 135 procent av BNP. Mellan 1990 och 1993 föll BNP med 6 procent, och arbetslösheten steg från 3 till 12 procent. Finanskrisen 2008 följde samma mönster i stora delar av världen.
 
-Ekonomen Hyman Minsky beskrev hur långa goda tider gör långivare och låntagare allt djärvare, tills systemet blir instabilt. Det som är säkert är att ett system där pengar skapas genom lån fungerar smidigast när lånen växer. Om räntan i sig tvingar fram ständig tillväxt är däremot omdiskuterat bland ekonomer, och det behövs inte för resonemanget här.
+Ekonomen Hyman Minsky beskrev hur långa goda tider gör långivare och låntagare allt djärvare, tills systemet blir instabilt. Det som är säkert är att ett system där pengar skapas genom lån fungerar smidigast när lånen växer. Om räntan i sig tvingar fram ständig ekonomisk tillväxt är däremot omdiskuterat bland ekonomer, och det behövs inte för resonemanget här.
 
 ## Kan samhället styra vart pengarna går?
 

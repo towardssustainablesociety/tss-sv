@@ -10,7 +10,7 @@ Bilden ändras dessutom när man ser framåt. De rika länderna har byggt sina s
 
 ## Löser inte marknaden knappheten med högre priser?
 
-Ofta, ja. Det är ett av tillväxtanhängarnas starkaste argument. När en resurs blir knapp stiger priset. Då blir det lönsamt att leta efter nya fyndigheter, använda resursen effektivare eller ersätta den med något annat. Ett känt exempel är vadet 1980 mellan ekonomen Julian Simon och biologen Paul Ehrlich om priset på fem metaller. Ehrlich trodde att priserna skulle stiga när metallerna blev knappare. De sjönk, och Simon vann.
+Ofta, ja. Det är ett av de starkaste argumenten för fortsatt ekonomisk tillväxt. När en resurs blir knapp stiger priset. Då blir det lönsamt att leta efter nya fyndigheter, använda resursen effektivare eller ersätta den med något annat. Ett känt exempel är vadet 1980 mellan ekonomen Julian Simon och biologen Paul Ehrlich om priset på fem metaller. Ehrlich trodde att priserna skulle stiga när metallerna blev knappare. De sjönk, och Simon vann.
 
 Men mekanismen fungerar bara för det som har ett pris. Fisken i havet, grundvattnet, pollinerarna och atmosfärens förmåga att ta emot koldioxid saknar oftast pris, eller har ett pris som inte speglar skadan. Där säger marknaden ingenting förrän det är för sent, som när torsken försvann utanför Newfoundland. Vem som äger naturen, och vem som ska få värdet av den, tas upp på sidan [Ägande o grundtrygghet – Ekonomiska systemet](<../../Ekonomiska systemet/Ägande o grundtrygghet/Ägande o grundtrygghet.md>).
 
@@ -28,7 +28,7 @@ Därför att den följer ekonomin. Mer produktion och konsumtion kräver mer mat
 
 Bilar är ett exempel. Motorerna har blivit mycket effektivare, men bilarna har samtidigt blivit större och tyngre. Ett annat exempel är städerna. Bostäder och infrastruktur för en växande stadsbefolkning kräver enorma mängder sten, sand, cement och stål.
 
-Därför går resursfrågan inte att skilja från frågan om tillväxt.
+Därför går resursfrågan inte att skilja från frågan om ekonomisk tillväxt.
 
 ## Vem använder resurserna?
 

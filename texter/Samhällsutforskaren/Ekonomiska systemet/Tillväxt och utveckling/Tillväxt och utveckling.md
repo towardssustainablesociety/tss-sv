@@ -2,7 +2,7 @@
 
 Det måste den inte av någon naturlag. Men dagens ekonomi är byggd för att växa, och därför uppstår problem när den inte gör det.
 
-**Ekonomisk tillväxt** innebär att värdet av det som produceras i ekonomin ökar över tid. Tillväxt kan ge ökade inkomster och resurser och gör det lättare att finansiera investeringar och offentlig verksamhet. Företag, hushåll och offentlig sektor har därför på olika sätt blivit beroende av att ekonomin fortsätter att växa.
+**Ekonomisk tillväxt** innebär att värdet av det som produceras i ekonomin ökar över tid. Den mäts oftast som en ökning av BNP. Ekonomisk tillväxt kan ge ökade inkomster och resurser och gör det lättare att finansiera investeringar och offentlig verksamhet. Företag, hushåll och offentlig sektor har därför på olika sätt blivit beroende av att ekonomin fortsätter att växa.
 
 Beroendet har alltså i stor utsträckning uppstått genom hur det ekonomiska systemet är organiserat, inte genom vad människor behöver för att leva ett gott liv.
 
@@ -16,17 +16,17 @@ Det här är ingen ny insikt. En internationell kommission ledd av ekonomiprista
 
 ## Vad händer om ekonomin slutar växa?
 
-I dagens system får många delar problem samtidigt. När företag förväntar sig växande efterfrågan blir det lättare att investera och anställa, och när ekonomin växer ökar inkomster och skatteintäkter. Om tillväxten avtar blir företagen försiktigare, efterfrågan kan minska och sysselsättningen påverkas.
+I dagens system får många delar problem samtidigt. När företag förväntar sig växande efterfrågan blir det lättare att investera och anställa, och när ekonomin växer ökar inkomster och skatteintäkter. Om BNP-tillväxten avtar blir företagen försiktigare, efterfrågan kan minska och sysselsättningen påverkas.
 
 Eftersom arbete, inkomster, investeringar och offentlig ekonomi hänger ihop sprids en svag utveckling snabbt. Det som har finansierats under förväntan om fortsatt expansion blir svårare att upprätthålla.
 
-Problemet är alltså inte att det i sig är farligt att ekonomin står stilla. Problemet är att dagens system har blivit beroende av att den fortsätter att växa. Den egentliga frågan blir därför varför samhället behöver tillväxt för att få trygghet, arbete och investeringar att fungera.
+Problemet är alltså inte att det i sig är farligt att ekonomin står stilla. Problemet är att dagens system har blivit beroende av att den fortsätter att växa. Den egentliga frågan blir därför varför samhället behöver ekonomisk tillväxt för att få trygghet, arbete och investeringar att fungera.
 
 ## Kan samhället fungera utan ekonomisk tillväxt?
 
 Ja, i princip. Ett samhälle behöver inte producera mer varje år för att människor ska kunna leva ett gott liv.
 
-Men ett samhälle som är organiserat kring fortsatt ekonomisk expansion kan få problem om tillväxten uteblir. För att kunna fungera utan ständig tillväxt behöver flera av de beroenden som finns i dagens ekonomi förändras.
+Men ett samhälle som är organiserat kring fortsatt ekonomisk expansion kan få problem om BNP-tillväxten uteblir. För att kunna fungera utan ständig ekonomisk tillväxt behöver flera av de beroenden som finns i dagens ekonomi förändras.
 
 Det handlar bland annat om hur arbete, inkomster, investeringar, företagande och offentlig ekonomi organiseras.
 
@@ -48,7 +48,7 @@ Frikoppling är alltså inte en fråga om ja eller nej, utan om takt och bredd. 
 
 ## Har inte Sverige redan visat att det går?
 
-Delvis, och det är tillväxtanhängarnas starkaste argument. Mellan 1990 och 2018 nästan fördubblades Sveriges ekonomi, samtidigt som koldioxidutsläppen minskade med 27 procent. Minskningen har fortsatt, och 2025 låg utsläppen av växthusgaser inom landet ungefär 34 procent under 1990 års nivå. Det beror bland annat på koldioxidskatten, som infördes 1991, på fossilfri elproduktion och på att fjärrvärme har ersatt oljepannor. Det är en verklig framgång.
+Delvis, och det är det starkaste argumentet för fortsatt ekonomisk tillväxt. Mellan 1990 och 2018 nästan fördubblades Sveriges ekonomi, samtidigt som koldioxidutsläppen minskade med 27 procent. Minskningen har fortsatt, och 2025 låg utsläppen av växthusgaser inom landet ungefär 34 procent under 1990 års nivå. Det beror bland annat på koldioxidskatten, som infördes 1991, på fossilfri elproduktion och på att fjärrvärme har ersatt oljepannor. Det är en verklig framgång.
 
 Men bilden ändras när man räknar med det vi konsumerar. Utsläppen kan räknas på två sätt. Det ena räknar det som släpps ut inom Sveriges gränser, även när det som tillverkas här exporteras. Det andra räknar utsläppen från allt svenskarna köper, var i världen de än uppstår.
 
@@ -76,9 +76,9 @@ Hur snabbt belastningen minskar avgörs därför inte i ekonomin ensam. Det avg�
 
 ## Så vad är egentligen svaret?
 
-Nej, samhället måste inte växa för att människor ska kunna leva ett gott liv. Det är framför allt vårt nuvarande ekonomiska system som har blivit beroende av fortsatt tillväxt.
+Nej, BNP måste inte växa för att människor ska kunna leva ett gott liv. Det är framför allt vårt nuvarande ekonomiska system som har blivit beroende av fortsatt ekonomisk tillväxt.
 
-Det gör tillväxtfrågan till en systemfråga. Om människors försörjning, företagens investeringar och samhällets ekonomi är beroende av ständig expansion blir det svårt att välja en annan utvecklingsriktning. Och så länge frikopplingen går så långsamt som den gör i dag, ökar varje procent tillväxt kravet på hur snabbt belastningen måste minska.
+Det gör frågan om ekonomisk tillväxt till en systemfråga. Om människors försörjning, företagens investeringar och samhällets ekonomi är beroende av ständig expansion blir det svårt att välja en annan utvecklingsriktning. Och så länge frikopplingen går så långsamt som den gör i dag, ökar varje procent BNP-tillväxt kravet på hur snabbt belastningen måste minska.
 
 Ett hållbart samhälle behöver därför kunna skapa trygghet, försörjning och välbefinnande utan att vara beroende av att produktion och konsumtion hela tiden ökar.
 

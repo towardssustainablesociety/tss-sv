@@ -62,7 +62,7 @@ Tekniken avgör alltså inte själv vad som händer. Det är samhällets sätt a
 
 Vi behöver inte skapa arbeten bara för arbetets skull. Det vi behöver är ett samhälle som kan försörja människor och tillgodose våra behov, samtidigt som det arbete som faktiskt behövs blir utfört.
 
-I dagens ekonomiska system är arbete starkt kopplat till både försörjning och ekonomisk aktivitet. Därför är det svårt att förändra arbetets betydelse utan att samtidigt förändra andra delar av ekonomin, som inkomster, trygghetssystem och synen på tillväxt.
+I dagens ekonomiska system är arbete starkt kopplat till både försörjning och ekonomisk aktivitet. Därför är det svårt att förändra arbetets betydelse utan att samtidigt förändra andra delar av ekonomin, som inkomster, trygghetssystem och synen på ekonomisk tillväxt.
 
 **Frågan är inte hur många arbeten vi kan skapa, utan hur vi kan organisera arbete och försörjning så att människor kan leva ett gott liv utan ett ständigt ökande behov av produktion.**
 

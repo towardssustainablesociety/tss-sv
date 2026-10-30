@@ -8,7 +8,7 @@ Förändring är alltså möjlig. Problemet är att den går för långsamt i f�
 
 ## Kan tekniken lösa problemen?
 
-Delvis, och utan teknik går det inte. Förnybar energi, elbilar, värmepumpar, effektivare industri och nya material är nödvändiga delar av omställningen. Tillväxtanhängarnas förhoppning är att tekniken ska göra det möjligt att fortsätta växa samtidigt som belastningen minskar. Det kallas **frikoppling**.
+Delvis, och utan teknik går det inte. Förnybar energi, elbilar, värmepumpar, effektivare industri och nya material är nödvändiga delar av omställningen. Förhoppningen hos anhängarna av fortsatt ekonomisk tillväxt är att tekniken ska göra det möjligt för ekonomin att fortsätta växa samtidigt som belastningen minskar. Det kallas **frikoppling**.
 
 Det har hänt i vissa länder när det gäller koldioxid. Men en genomgång av över 800 studier, publicerad 2020, fann att exemplen på verklig frikoppling är få och att minskningarna inte är i närheten av den takt som behövs.
 
