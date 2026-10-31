@@ -20,8 +20,8 @@ Byggskripten i `bygg/` omfattas av samma licens.
 |---|---|
 | `texter/` | Webbplatsens sidor i markdown, en mapp per sida. Filen heter som mappen, till exempel `texter/Samhällsutforskaren/Ekologiska systemet/Naturens kretslopp/Naturens kretslopp.md`. Bilder ligger som PNG i sidans mapp. Samhällskartan är en SVG med länkar (`texter/Vårt samhälle/Samhällskartan/Samhällskartan.svg`). |
 | `texter/Sidordning.md` | Alla sidor i den ordning de visas. Navigeringen på webbplatsen (toppmenyn, raden som visar var man är och listan över sidorna sist) byggs av mallen utifrån mapparna och den här filen. |
-| `forvaltning/` | Underlag för förvaltningen: objektregistret för Samhällskartan och ordlistan svenska–engelska med namntabellen för TSS-en. |
-| `bygg/` | `bygg.py` gör om texterna till en statisk webbplats. `mall.html` är sidmallen och `stil.css` utseendet. |
+| `forvaltning/` | Underlag för förvaltningen: `Förvaltningslogg.md` (läge, beslut och arbetssätt – börja här, och ge den till din AI-assistent), `Skrivregler.md`, ordlistan svenska–engelska med namntabellen för TSS-en och objektregistret för Samhällskartan. |
+| `bygg/` | `bygg.py` gör om texterna till en statisk webbplats. `mall.html` är sidmallen och `stil.css` utseendet. `kolla-externa-lankar.sh` provar alla externa länkar på sv och en (körs i Terminal). |
 | `.github/workflows/publicera.yml` | Bygger och publicerar webbplatsen på GitHub Pages vid varje ändring i `main`. |
 
 Texterna i förrådet är originalet sedan 2026-10-28. Före dess var originalet docx-filer.
@@ -66,3 +66,5 @@ Samma skript bygger den engelska versionen, som har sina texter i [tss-en](https
 ## Förvaltning
 
 TSS grundades och förvaltas av Rolf Thorsell. Förrådet ligger i en GitHub-organisation så att fler kan bli förvaltare och så att arbetet kan lämnas över.
+
+Den som tar över förvaltningen börjar med [forvaltning/Förvaltningslogg.md](forvaltning/F%C3%B6rvaltningslogg.md). Den är skriven så att den kan ges till vilken AI-assistent som helst, som då kan fortsätta arbetet. Skrivreglerna för sidorna står i [forvaltning/Skrivregler.md](forvaltning/Skrivregler.md).
