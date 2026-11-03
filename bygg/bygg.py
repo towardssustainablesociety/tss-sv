@@ -34,13 +34,13 @@ SPRAKDATA = {
                kontakt='Kontakt', locale='sv_SE', licens='https://creativecommons.org/licenses/by-sa/4.0/deed.sv',
                licenstext='Texterna och bilderna får användas och byggas vidare på enligt',
                forrad='Texterna på GitHub', meny='Huvudmeny', duarhar='Du är här', sidorna='Sidorna i',
-               sidornahar='Sidorna här', andra='In English', www='Andra språk – Other languages'),
+               sidornahar='Sidorna här', andra='In English', fler='Fler språk', www='Andra språk – Other languages'),
     'en': dict(base='https://en.towardssustainablesociety.org', site='Towards Sustainable Society – TSS',
                start='Sustainable Society', top=('Our Society', 'The Society Map', 'Society Explorer', 'About TSS'),
                kontakt='Contact', locale='en_GB', licens='https://creativecommons.org/licenses/by-sa/4.0/deed.en',
                licenstext='The texts and images may be used and built upon under',
                forrad='The texts on GitHub', meny='Main menu', duarhar='You are here', sidorna='Pages in',
-               sidornahar='Pages here', andra='På svenska', www='Other languages – Andra språk'),
+               sidornahar='Pages here', andra='På svenska', fler='More languages', www='Other languages – Andra språk'),
 }
 L = SPRAKDATA[LANG]
 OTHER = 'en' if LANG == 'sv' else 'sv'
@@ -279,7 +279,7 @@ for p in pages.values():
         '{{HREFLANG}}': (f'\n<link rel="alternate" hreflang="{LANG}" href="{BASE}/{p["url"]}">\n'
                          f'<link rel="alternate" hreflang="{OTHER}" href="{other_url(p)}">\n'
                          f'<link rel="alternate" hreflang="x-default" href="{WWW}">') if SPRAK else '',
-        '{{SPRAKLANK}}': f'\n<a class="lang" href="{other_url(p)}" hreflang="{OTHER}" lang="{OTHER}">{L["andra"]}</a>' if SPRAK else '',
+        '{{SPRAKLANK}}': f'\n<a class="lang" href="{other_url(p)}" hreflang="{OTHER}" lang="{OTHER}">{L["andra"]}</a>\n<a class="lang" href="{WWW}">{L["fler"]}</a>' if SPRAK else '',
         '{{WWW}}': f' · <a href="{WWW}">{L["www"]}</a>' if SPRAK else '',
         '{{TOP}}': topmenu(p), '{{CRUMBS}}': crumbs(p), '{{SECTION}}': section(p), '{{SITE}}': SITE, '{{BODY}}': b,
         '{{ROBOTS}}': '<meta name="robots" content="noindex">' if NOINDEX else '',
