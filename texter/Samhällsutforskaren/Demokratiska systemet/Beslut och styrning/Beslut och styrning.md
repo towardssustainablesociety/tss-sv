@@ -16,6 +16,12 @@ Därför att ansvaret är uppdelat i sektorer. Trafikverket bygger vägar, Natur
 
 En ny väg kan till exempel vara lönsam enligt Trafikverkets kalkyler, öka biltrafiken och därmed försvåra klimatmålet, och samtidigt styra var kommunen bygger. Ingen fattade ett felaktigt beslut, men ingen ansvarade för helheten. Det kallas ibland **stuprörsstyrning**: varje område styrs uppifrån och ned, men inget styr det som händer mellan dem.
 
+## Visar beslutsunderlagen vad ett förslag gör med helheten?
+
+Bara delvis. Förslag från statliga utredningar och myndigheter ska följas av en konsekvensutredning. Där ska kostnader och intäkter redovisas för staten, kommunerna, regionerna, företagen och enskilda. Miljön och de sociala följderna nämns inte särskilt, utan får rymmas bland övriga relevanta konsekvenser eller anges i det enskilda uppdraget.
+
+Ett rimligt krav är att större beslutsunderlag visar vad förslaget gör med alla fyra samhällssystemen och hur det stämmer med grundlagens mål om välfärd och hållbar utveckling. Det är samma tanke som [varudeklarationen för partierna](<../Val o partier/Val o partier.md>). Underlaget avgör inte vad beslutet ska bli. Det gör helheten synlig innan beslutet fattas.
+
 ## Vad mäter staten för att se om det går bra?
 
 Mest ekonomin. BNP, sysselsättning och statsfinanser följs noga och styr mycket av debatten. Sedan 2017 redovisar regeringen också femton nya mått på välfärd i vårpropositionen: fem ekonomiska, fem miljömässiga och fem sociala, till exempel utsläpp av växthusgaser, tillit och livstillfredsställelse.
@@ -57,3 +63,5 @@ Det som behövs är inte mer central styrning, utan gemensamma mål, bredare må
 - [Riksdagen, 2017 års ekonomiska vårproposition (Nya mått på välfärd)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/2017-ars-ekonomiska-varproposition_h403100/html/)
 
 - [Naturvårdsverket, Sveriges klimatmål och klimatpolitiska ramverk](https://www.naturvardsverket.se/amnesomraden/klimatomstallningen/sveriges-klimatarbete/sveriges-klimatmal-och-klimatpolitiska-ramverk/)
+
+- [Förordning (2024:183) om konsekvensutredningar](https://data.riksdagen.se/dokument/sfs-2024-183.html)

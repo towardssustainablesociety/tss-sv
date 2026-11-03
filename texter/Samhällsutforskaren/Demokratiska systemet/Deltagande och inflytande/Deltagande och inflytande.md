@@ -16,6 +16,14 @@ På många sätt, men med mycket olika effekt. Att svara på en kommuns medborga
 
 Den mest beprövade vägen är fortfarande att organisera sig. Föreningar, fackförbund, studieförbund och partier ger röst åt många samtidigt och lär människor hur samhället fungerar. Folkrörelserna var med och byggde det svenska samhället, och de är fortfarande en av demokratins viktigaste skolor.
 
+## Kan medborgarna själva lägga förslag till riksdagen?
+
+Inte i Sverige. Medborgarna är demokratins ägare, men förslagen till riksdagen kommer från ledamöterna, regeringen och vissa riksdagsorgan. Demokratiutredningen föreslog 2016 en folkmotion, där ett förslag med stöd av en procent av de röstberättigade skulle behandlas som en motion, men den har inte införts.
+
+I andra länder är vägen in tydligare. I Tyskland kan alla enligt grundlagen vända sig till parlamentet med en **petition**, en skriftlig begäran eller ett klagomål, utan krav på underskrifter, och få besked om utfallet. År 2025 kom det in 12 399 petitioner. I Storbritannien får namninsamlingar med 10 000 underskrifter svar från regeringen. I Estland räcker 1 000 underskrifter för att riksdagen ska behandla ett förslag, och i Finland måste riksdagen ta upp ett medborgarinitiativ med 50 000 underskrifter.
+
+Länderna har löst det på olika sätt, men principen är densamma: den skriftliga dialogen mellan samhällets demokratiska ägare och deras riksdag kan bli bättre. Det ska gå att lägga ett förslag, se att det har tagits emot och följa vad som händer med det. Det ger ingen rätt att få som man vill, men de som bestämmer får förklara sig.
+
 ## Varför röstar vi inte direkt om fler frågor?
 
 Det går, men folkomröstningar har sina begränsningar. I Sverige är nationella folkomröstningar rådgivande, och de har gällt stora frågor som kärnkraften 1980, EU-medlemskapet 1994 och euron 2003.
@@ -40,7 +48,7 @@ Kunskap finns inte bara hos experter. Den som bor nära en planerad gruva, vård
 
 Rösten är grunden, men den räcker inte. Inflytandet mellan valen är ojämnt fördelat och följer livsvillkoren, och mycket av det som kallas dialog ger lite verkligt inflytande.
 
-Det finns beprövade sätt att göra det bättre: att låta människor komma in tidigt, att visa hur synpunkter tas om hand, att stärka föreningslivet och att låta lottade medborgare väga svåra frågor. Inget av det ersätter valen, men det kan ge demokratin det den saknar mellan dem.
+Det finns beprövade sätt att göra det bättre: att låta människor komma in tidigt, att ge dem en väg att lägga egna förslag, att visa hur synpunkter tas om hand, att stärka föreningslivet och att låta lottade medborgare väga svåra frågor. Inget av det ersätter valen, men det kan ge demokratin det den saknar mellan dem.
 
 **Frågan är inte om människor vill delta, utan om deras deltagande får någon betydelse.**
 
@@ -63,3 +71,17 @@ Det finns beprövade sätt att göra det bättre: att låta människor komma in 
 - [Wikipedia, Thirty-sixth Amendment of the Constitution of Ireland](https://en.wikipedia.org/wiki/Thirty-sixth_Amendment_of_the_Constitution_of_Ireland)
 
 - [Franska regeringen, La Convention citoyenne pour le climat, un exercice démocratique inédit](https://www.info.gouv.fr/actualite/la-convention-citoyenne-pour-le-climat-un-exercice-democratique-inedit)
+
+- [Riksdagen, Dokument och lagar](https://www.riksdagen.se/sv/dokument-och-lagar/)
+
+- [SOU 2016:5, Låt fler forma framtiden!](https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2016/01/sou-20165/)
+
+- [ZDF, Grundrecht Petition](https://www.zdfheute.de/politik/deutschland/petition-grundrecht-regeln-einfluss-100.html)
+
+- [Tyska förbundsdagen, Petitionsbericht 2025](https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-petitionsbericht-2025-1181866)
+
+- [UK Parliament, How petitions work](https://petition.parliament.uk/help)
+
+- [Riigikogu, Submit a collective proposal](https://www.riigikogu.ee/en/introduction-and-history/have-your-say/submit-collective-proposal/)
+
+- [Yle, Medborgarinitiativ i Finland](https://yle.fi/a/7-859695)
