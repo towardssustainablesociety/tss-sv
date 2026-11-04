@@ -18,6 +18,16 @@ När fisket stoppades kom torsken inte tillbaka som många hade hoppats. Det dr�
 
 Korallreven är ett aktuellt exempel. Enligt Global Tipping Points Report 2025 håller de tropiska korallreven redan på att passera sin vändpunkt vid dagens uppvärmning på omkring 1,4 grader.
 
+## Hur länge finns skadan kvar?
+
+Ibland mycket längre än det som orsakade den. Då räcker det inte att sluta.
+
+Den klimatförändring som koldioxidutsläppen orsakar är i stort sett oåterkallelig i omkring 1 000 år efter att utsläppen har upphört. Temperaturen sjunker inte nämnvärt, även om halten i luften långsamt minskar.
+
+PFAS är konstgjorda ämnen som bland annat har använts i brandskum. De är extremt svårnedbrytbara, och vissa bryts troligen aldrig ned i naturen. I dag finns de mer eller mindre överallt, till och med i isbjörnar i Arktis. I Ronneby förorenades dricksvattnet av brandskum från en flygplats. När människor slutade dricka vattnet tog det ändå omkring tre till fem år innan halterna i blodet hade halverats.
+
+Använt kärnbränsle är ett exempel av annat slag, eftersom det ska hållas borta från naturen. Vid prövningen av slutförvaret i Forsmark bedömdes risken för spridning över 100 000 år. Oavsett vad man tycker om kärnkraften visar det hur långt in i framtiden ett beslut kan räcka.
+
 ## Varför märks skadan så sent?
 
 Därför att ett system som är på väg mot en vändpunkt ofta ser stabilt ut ända till slutet. Resiliensen fungerar som en buffert som döljer att påfrestningen ökar. Torsken fångades i stora mängder ända tills den nästan var borta, bland annat för att fisket koncentrerades till de platser där den fortfarande fanns.
@@ -34,7 +44,7 @@ Det som gör dem särskilt allvarliga är att de kan påverka varandra. Smältan
 
 Genom att minska belastningen och bevara variationen. Ett system med många arter och olika livsmiljöer har fler sätt att klara en störning. En blandskog tål ett insektsangrepp bättre än en plantering med ett enda trädslag.
 
-Det handlar också om att ge naturen marginaler, alltså att inte utnyttja ett system ända upp till gränsen för vad det tål, eftersom vi sällan vet exakt var gränsen går. Samma princip gäller för samhället. Ett samhälle som är beroende av ett fåtal resurser, leveranskedjor eller grödor är mer sårbart än ett som har bredd och reserver.
+Det handlar också om att ge naturen marginaler, alltså att inte utnyttja ett system ända upp till gränsen för vad det tål, eftersom vi sällan vet exakt var gränsen går. Samma princip gäller för samhället. Ett samhälle som är beroende av ett fåtal resurser, leveranskedjor eller grödor är mer sårbart än ett som har bredd och reserver. Också samhällets sammanhållning kan nötas ned och nå en vändpunkt. Det tas upp på sidan [Spänningar och konflikter](<../../Sociala o kulturella systemet/Spänningar och konflikter/Spänningar och konflikter.md>).
 
 ## Så vad är egentligen svaret?
 
@@ -52,6 +62,8 @@ Eftersom vändpunkter är svåra att se i förväg är det klokt att hålla marg
 
 - [Långsiktighet o framtid – Demokratiska systemet](<../../Demokratiska systemet/Långsiktighet o framtid/Långsiktighet o framtid.md>)
 
+- [Spänningar och konflikter – Sociala o kulturella systemet](<../../Sociala o kulturella systemet/Spänningar och konflikter/Spänningar och konflikter.md>)
+
 - [Planetära gränser – Ramverk](<../../Ramverk/Planetära gränser/Planetära gränser.md>)
 
 ## Externa källor
@@ -61,3 +73,11 @@ Eftersom vändpunkter är svåra att se i förväg är det klokt att hålla marg
 - [The Canadian Encyclopedia, Cod Moratorium of 1992](https://thecanadianencyclopedia.ca/en/article/cod-moratorium-of-1992)
 
 - [Stockholm Resilience Centre, What is resilience?](https://www.stockholmresilience.org/research/research-news/2015-02-19-what-is-resilience.html)
+
+- [Solomon m.fl., Irreversible climate change due to carbon dioxide emissions (PNAS 2009)](https://echorock.cgd.ucar.edu/events/20130729/files/Solomon-Plattner-etal-2009.pdf)
+
+- [Naturvårdsverket, Högfluorerade ämnen i miljön, PFAS](https://www.naturvardsverket.se/amnesomraden/miljofororeningar/organiska-miljogifter/hogfluorerade-amnen-i-miljon-pfas)
+
+- [Li m.fl., Half-lives of PFOA, PFPeS, PFHxS, PFHpS and PFOS after end of exposure to contaminated drinking water (2019)](https://pfascentral.org/science/half-lives-of-pfoa-pfpes-pfhxs-pfhps-and-pfos-after-end-of-exposure-to-contaminated-drinking-water)
+
+- [SVT, Domstol ger grönt ljus för ett slutförvar för använt kärnbränsle (2024)](https://www.svt.se/nyheter/lokalt/smaland/domstol-ger-gront-ljus-for-ett-slutforvar-for-anvant-karnbransle)

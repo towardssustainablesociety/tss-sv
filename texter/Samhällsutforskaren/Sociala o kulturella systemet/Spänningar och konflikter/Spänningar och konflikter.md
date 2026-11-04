@@ -18,6 +18,18 @@ En möjlig utveckling är spänning, förstärkning, polarisering, konflikt och 
 
 Bilden av elektrisk spänning kan hjälpa: något byggs upp tills det laddas ur. Men samhällen är inte fysik. Människor kan tolka, förhandla och välja en annan väg.
 
+## Kan ett samhälle tippa över, som en sjö eller ett fiskbestånd?
+
+På sätt som liknar naturens, ja. Forskare talar om **social resiliens**: gruppers och samhällens förmåga att klara påfrestningar, anpassa sig och vid behov förändra sina institutioner. Långvariga orättvisor kan nöta ned den förmågan utan att det syns. Risken för våld ökar särskilt när klyftorna sammanfaller, så att samma etniska eller religiösa grupp är missgynnad både ekonomiskt och politiskt. De flesta samhällen med många etniska grupper är ändå fredliga. Det är sällan olikheten i sig som leder till våld.
+
+När våldet väl har brutit ut räcker det inte att ta bort orsaken. Rädsla och misstro lever kvar långt efter att striderna har upphört.
+
+Arvet kan också leva länge efter att makten har skiftat. I Rwanda gynnade den belgiska kolonialmakten tutsierna, som var en minoritet, och krävde att alla bar identitetskort med etnisk tillhörighet. Landet blev självständigt 1962, men indelningen levde kvar. Vid folkmordet 1994 dödades mellan en halv och en miljon tutsier och moderata hutuer. Kolonialismen ensam förklarar inte folkmordet, som organiserades av politiker och miliser i Rwanda. Men den hade skapat den skiljelinje som de utnyttjade. Forskningen bakom ekonomipriset 2024 visar också att institutioner från kolonialtiden fortfarande påverkar skillnaderna i välstånd mellan länder.
+
+Det som håller emot är ofta band mellan grupperna. I den indiska staden Calicut hade hinduer och muslimer gemensamma handelsföreningar, fackföreningar och läsklubbar, och när spänningarna steg kunde fredskommittéer snabbt bildas. I Aligarh, där grupperna levde mer åtskilda, utlöste falska rapporter våld. Sambandet gäller kravaller bättre än inbördeskrig, men det visar att sammanhållning går att bygga innan den behövs.
+
+Liknelsen har sina gränser. Människor kan välja, och ledare kan avsiktligt elda på motsättningar. Resiliens är inte heller alltid något gott, eftersom också ett orättvist samhälle kan vara motståndskraftigt. Därför räcker det inte att fråga om samhället håller. Man måste också fråga vem det håller för.
+
 ## Vilka slags spänningar finns i samhället?
 
 Många, och de går ofta in i varandra. Det finns ekonomiska spänningar om inkomster och kostnader, ekologiska spänningar om mark, vatten och naturresurser och sociala spänningar om livsvillkor och tillhörighet. Det finns spänningar om makt och ägande, politik, kultur och religion, om vilken information man litar på och mellan generationer.
@@ -58,8 +70,24 @@ Omställningen kommer att skapa nya spänningar. Det avgörande är om samhälle
 
 - [Resurser o material – Ekologiska systemet](<../../Ekologiska systemet/Resurser o material/Resurser o material.md>)
 
+- [Resiliens o vändpunkter – Ekologiska systemet](<../../Ekologiska systemet/Resiliens o vändpunkter/Resiliens o vändpunkter.md>)
+
 - [Makt och maktbalans – Demokratiska systemet](<../../Demokratiska systemet/Makt och maktbalans/Makt och maktbalans.md>)
 
 - [Deltagande och inflytande – Demokratiska systemet](<../../Demokratiska systemet/Deltagande och inflytande/Deltagande och inflytande.md>)
 
 - [Visionen – Vårt samhälle](<../../../Vårt samhälle/Visionen/Visionen.md>)
+
+## Externa källor
+
+- [Adger, Social and ecological resilience: are they related? (2000)](https://ueaeprints.uea.ac.uk/id/eprint/27590/)
+
+- [Keck och Sakdapolrak, What is social resilience? Lessons learned and ways forward (2013)](https://www.erdkunde.uni-bonn.de/article/view/2716)
+
+- [Stewart, Horizontal Inequalities as a Cause of Conflict: A Review of CRISE Findings (Världsbanken 2011)](https://openknowledge.worldbank.org/entities/publication/86dc685b-d5d4-53e2-ab25-10e7177a2a4f)
+
+- [Varshney, Ethnic Conflict and Civil Society: India and Beyond (World Politics 2001)](https://www.un.org/esa/socdev/sib/egm/paper/Ashutosh%20Varshney.pdf)
+
+- [USHMM, Rwanda: Divided by ethnicity](https://www.ushmm.org/hu/genocide-prevention/countries/rwanda/divided-by-ethnicity)
+
+- [NPR via NHPR, Nobel Prize goes to 3 economists who study the wealth and poverty of nations (2024)](https://www.nhpr.org/2024-10-14/nobel-prize-goes-to-3-economists-who-study-the-wealth-and-poverty-of-nations)
