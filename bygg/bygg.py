@@ -240,6 +240,9 @@ def desc(h):
 
 TPL = open(os.path.join(HERE, 'mall.html'), encoding='utf-8').read()
 shutil.copyfile(os.path.join(HERE, 'stil.css'), os.path.join(OUT, 'stil.css'))
+for ikon in ('favicon.ico', 'favicon.svg', 'icon-192.png', 'apple-touch-icon.png'):   # webbplatsens ikon, samma i båda språken
+    if os.path.exists(os.path.join(HERE, 'ikon', ikon)): shutil.copyfile(os.path.join(HERE, 'ikon', ikon), os.path.join(OUT, ikon))
+    else: problems.append(f'ikonen {ikon} saknas i bygg/ikon')
 og_name = next((N(x) for x in sorted(os.listdir(os.path.join(SRC, START))) if '1200x630' in x and x.endswith('.png')), None)
 og = ''
 if og_name:

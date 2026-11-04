@@ -39,7 +39,8 @@ Texterna i förrådet är originalet sedan 2026-10-28. Före dess var originalet
 1. Varje sida görs om från markdown till HTML med pandoc.
 2. Länkar till andra sidfiler blir webbplatsens egna adresser, till exempel `/samhallsutforskaren/ekologiska-systemet/naturens-kretslopp/`. Externa länkar öppnas i en ny flik.
 3. Bilderna kopieras till webbplatsen. En SVG-bild läggs in direkt i sidan, så att länkarna i den fungerar.
-4. Bygget skriver också sitemap, robots.txt och CNAME, och listar problem i loggen för körningen: länkar som inte hittar sin sida, bilder som saknas och sidor som saknas eller står fel i `Sidordning.md`.
+4. Webbplatsens ikon (`bygg/ikon/`) kopieras till roten. Den är Samhällskartan förenklad, med samma färger och placering. Stora storlekar har TSS i mitten (original `ikon-med-TSS.svg`), små har en gul punkt (original `favicon.svg`). PNG- och ICO-filerna ritas om från dem om ikonen ändras, och samma filer ligger i `site/` i tss-www.
+5. Bygget skriver också sitemap, robots.txt och CNAME, och listar problem i loggen för körningen: länkar som inte hittar sin sida, bilder som saknas och sidor som saknas eller står fel i `Sidordning.md`.
 
 Bygga själv (kräver pandoc och Python 3.10 eller senare):
 
