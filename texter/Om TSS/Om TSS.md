@@ -18,6 +18,8 @@ Efter pensioneringen 2014 började jag skriva om frågorna i sociala medier och 
 
 Bara visionen: **ett gott liv för alla, inom planetens gränser**. TSS är ingen organisation och ingen kampanj. Webbplatsen har ingen finansiering och inga annonser, och tar inte ställning för något parti. Här beskrivs hur samhället fungerar och vilka vägar som finns, inte vilken väg som är den rätta.
 
+Webbplatsen räknar antalet besök med GoatCounter, utan kakor och utan att spara uppgifter om vem du är.
+
 ## Får jag använda texterna?
 
 Ja. Texterna och bilderna på webbplatsen får användas, delas och byggas vidare på enligt licensen [Creative Commons Erkännande-DelaLika 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.sv). Villkoren är att du anger att materialet kommer från TSS, länkar till licensen och delar det du gör av det på samma villkor. Tanken är att TSS ska vara en plattform som vem som helst kan använda och bygga vidare på. Visionen är en inbjudan, inte ett villkor.

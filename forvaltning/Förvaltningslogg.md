@@ -33,7 +33,7 @@ Version 2026-10-31. Den här filen är skriven för att lämnas till en AI-assis
 
 **tss-www** har `site/` (språkvalet och språksidorna, färdig HTML) och `sprak/<kod>.html` med `bygg-sprak.py`, som bygger språksidorna. Skriptet körs lokalt och resultatet läggs i förrådet.
 
-Konton (GitHub, domänen hos Loopia, Search Console) hanteras av förvaltaren och beskrivs inte här.
+Konton (GitHub, domänen hos Loopia, Search Console, GoatCounter) hanteras av förvaltaren och beskrivs inte här.
 
 ## 3. Så görs en ändring
 
@@ -68,6 +68,7 @@ Utöver det som står i Skrivregler.md:
 - Länkar är mörkblå och understrukna, utom logotypen och namnen i Samhällskartan.
 - Samhällskartan är en SVG med riktiga länkar: `texter/Vårt samhälle/Samhällskartan/Samhällskartan.svg`. Den ändras enligt `forvaltning/Objektregister Samhällskartan.md`, i båda språken.
 - Bygget ska fungera med Python 3.10 och kräver pandoc.
+- **Besöksstatistik:** GoatCounter, utan kakor, sedan 2026-11-04. Skriptraderna står i `bygg/bygg.py` (`MATNING`) och i tss-www (`bygg-sprak.py` och `site/index.html`). I statistiken börjar adresserna med `sv/`, `en/` eller `www/`. Sidan Om TSS berättar om mätningen; tas mätningen bort ska också den meningen bort.
 
 ## 5. Läge 2026-10-31
 

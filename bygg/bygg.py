@@ -27,6 +27,12 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 NAMN = arg('--namn', os.path.join(HERE, '..', 'forvaltning', 'Ordlista svenska-engelska.md'))
 WWW = 'https://www.towardssustainablesociety.org/'
 
+# Besöksräkning med GoatCounter (utan kakor). Sökvägen får webbplatsens första led, så att sv, en och www
+# hålls isär i statistiken. Samma rader står i tss-www (bygg-sprak.py och site/index.html). Ta bort raderna här
+# och där för att sluta räkna. --preview räknar inte.
+MATNING = '''<script>window.goatcounter = {path: function(p) { return location.hostname.split('.')[0] + p }}</script>
+<script data-goatcounter="https://tss-s.goatcounter.com/count" async src="https://gc.zgo.at/count.v5.js" crossorigin="anonymous" integrity="sha384-atnOLvQb9t+jTSipvd75X2yginT4PjVbqDdlJAmxMm+wYElFmeR6EmLP5bYeoRVQ"></script>'''
+
 # Allt som skiljer språkversionerna åt. Sidnamnen följer namntabellen i forvaltning/.
 SPRAKDATA = {
     'sv': dict(base='https://sv.towardssustainablesociety.org', site='Mot ett hållbart samhälle – TSS',
@@ -284,6 +290,7 @@ for p in pages.values():
         '{{TOP}}': topmenu(p), '{{CRUMBS}}': crumbs(p), '{{SECTION}}': section(p), '{{SITE}}': SITE, '{{BODY}}': b,
         '{{ROBOTS}}': '<meta name="robots" content="noindex">' if NOINDEX else '',
         '{{LICENS}}': LICENS,
+        '{{MATNING}}': '' if PREVIEW else MATNING,
         '{{FORRAD}}': f' · <a href="{html.escape(FORRAD, quote=True)}">{L["forrad"]}</a>' if FORRAD else '',
     }.items():
         page = page.replace(k, v)
