@@ -52,9 +52,19 @@ Men granskningen som föreslås här bestämmer ingenting. Den kontrollerar att 
 
 Riskerna ska ändå tas på allvar. Partierna kan lära sig skriva glättiga deklarationer, och en granskare kan få politisk slagsida eller mer makt än det var tänkt. Därför behöver granskningen vara öppen med sina metoder, ha brett politiskt stöd och själv kunna granskas. Klimatramverket visar att det går: det röstades igenom av en bred majoritet i riksdagen.
 
+## Varför betyder partitillhörigheten så mycket?
+
+Därför att människan är ett flockdjur, och det gäller politiker som alla andra. Att höra till en grupp är en viktig del av vem vi är, och ett parti är en grupp med kamrater, gemensamma minnen och motståndare. Forskningen kallar det **affektiv polarisering** när känslorna för den egna gruppen och de andra grupperna glider isär, och det kan ske även när åsikterna närmar sig varandra. I Sverige har den ökat svagt vid varje val sedan millennieskiftet, men nivån var nästan lika hög omkring 1980. Den är högre bland riksdagsledamöterna än bland väljarna.
+
+Sammanhållningen fyller en funktion. När ledamöterna följer partilinjen vet väljarna vad rösten leder till och vem de ska hålla ansvarig. Men partigruppen kräver också stöd för linjen i omröstningar, motioner och offentliga uttalanden. Det som gynnar helheten men kostar partiet kan då bli svårt att säga högt.
+
+Flocken går inte att ta bort, men man kan höra till fler än en. I Pensionsgruppen sitter alla åtta riksdagspartier och vårdar samma system. I Försvarsberedningen strävar de efter så bred enighet som möjligt. Finlands riksdag har sedan 1993 ett framtidsutskott med 17 ledamöter, som för samtal med regeringen om de stora framtidsfrågorna. Där arbetar politiker från olika partier med samma uppgift. Forskningen visar också att samtal över gränserna kan minska polariseringen när de är väl utformade, och öka den när de inte är det.
+
+Det ersätter inte partierna, och det löser inte allt. Försvarsberedningen sprack 2019, när fyra partier lämnade arbetet i oenighet om hur mycket pengar försvaret skulle få. Grupper per samhällssystem skulle också kunna bli nya läger, ett för ekonomin och ett för naturen, om inte varje grupp ansvarar för vad förslagen gör med alla fyra. Det rimliga kravet är därför att fler stora frågor får ett sådant arbete över partigränserna, med den gemensamma visionen som uppgift. Och visionen måste förbli allas, annars blir den bara ännu en flocks flagga.
+
 ## Så vad är egentligen svaret?
 
-Demokratin är bra på att byta ledning, men den saknar ett sätt att bestämma riktningen och hålla den. Det beror inte på att politiker är sämre än andra människor. Det beror på hur systemet är byggt. Valen handlar om ledning och löften, granskningen handlar om regler, och ideologierna vaktar var sin del av samhället.
+Demokratin är bra på att byta ledning, men den saknar ett sätt att bestämma riktningen och hålla den. Det beror inte på att politiker är sämre än andra människor. Det beror på hur systemet är byggt. Valen handlar om ledning och löften, granskningen handlar om regler, ideologierna vaktar var sin del av samhället, och partierna är också den flock som politikerna hör till.
 
 Lösningen är inte en ny ideologi eller ett nytt parti. Visionen, ett hållbart samhälle, har redan stöd i grundlagen. Det som saknas är att varje parti redovisar sin väg dit, och att någon oberoende granskar om redovisningen håller. Då blir valet ett val mellan vägar mot ett gemensamt mål, och inte bara ett val mellan färger.
 
@@ -72,6 +82,8 @@ Lösningen är inte en ny ideologi eller ett nytt parti. Visionen, ett hållbart
 
 - [Normer, värderingar och ideal – Sociala o kulturella systemet](<../../Sociala o kulturella systemet/Normer, värderingar och ideal/Normer, värderingar och ideal.md>)
 
+- [Tillit o gemenskap – Sociala o kulturella systemet](<../../Sociala o kulturella systemet/Tillit o gemenskap/Tillit o gemenskap.md>)
+
 ## Externa källor
 
 - [Regeringsformen, 1 kap. 2 § (lagen.nu)](https://lagen.nu/1974:152)
@@ -85,3 +97,19 @@ Lösningen är inte en ny ideologi eller ett nytt parti. Visionen, ett hållbart
 - [CPB, Keuzes in Kaart 2025–2028 (2023)](https://www.cpb.nl/sites/default/files/omnidownload/Keuzes-in-Kaart-2025-2028.pdf)
 
 - [Future Generations Commissioner for Wales, Well-being of Future Generations (Wales) Act 2015](https://www.futuregenerations.wales/about-us/future-generations-act/)
+
+- [Iyengar m.fl., The Origins and Consequences of Affective Polarization in the United States (Annual Review of Political Science, 2019)](https://annualreviews.org/doi/pdf/10.1146/annurev-polisci-051117-073034)
+
+- [Henrik Oscarsson, Riksdagens affektiva landskap (Göteborgs universitet)](https://www.gu.se/sites/default/files/2025-04/Riksdagens_landskap_kap3.pdf)
+
+- [Magnus Hagevi, Riksdagsledamöternas upplevda inflytande i partigrupperna under tre decennier (Göteborgs universitet)](https://www.gu.se/sites/default/files/2025-04/Riksdagens_landskap_kap8.pdf)
+
+- [Regeringen, Pensionsgruppen](https://regeringen.se/regeringens-politik/socialforsakringar/pensionsgruppen/)
+
+- [Regeringen, Försvarsberedningen har påbörjat sitt arbete (2026)](https://regeringen.se/artiklar/2026/02/forsvarsberedningen-har-paborjat-sitt-arbete/)
+
+- [SVT, Efter sprickan – nu presenteras Försvarsberedningens slutrapport (2019)](https://www.svt.se/nyheter/inrikes/efter-sprickan-nu-presenteras-forsvarsberedningens-slutrapport)
+
+- [Finlands riksdag, Committee for the Future](https://www.eduskunta.fi/EN/valiokunnat/tulevaisuusvaliokunta)
+
+- [Frontiers in Political Science, systematisk översikt om samtal och polarisering (2023)](https://www.frontiersin.org/articles/10.3389/fpos.2023.1127372)
