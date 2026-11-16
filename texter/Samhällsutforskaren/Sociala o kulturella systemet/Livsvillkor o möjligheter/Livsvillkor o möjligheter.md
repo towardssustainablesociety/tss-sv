@@ -1,3 +1,9 @@
+## Vad är livsvillkor?
+
+**Livsvillkor** är de förhållanden som ramar in en människas liv: boende, hälsa, ekonomi, utbildning, arbete, trygghet och de människor man har omkring sig. Vissa väljer man själv, andra får man med sig från början eller möter längs vägen.
+
+Livsvillkoren avgör vilka möjligheter man faktiskt har. Två personer med samma rättigheter kan ha mycket olika handlingsutrymme, beroende på var de bor, vad de tjänar och hur de mår. Därför handlar den här sidan både om villkoren och om möjligheterna.
+
 ## Har inte alla samma möjligheter i Sverige?
 
 Formellt ja, i praktiken nej. Alla har samma rätt att gå i skolan, söka arbete och rösta. Men vad man kan göra med sina rättigheter beror på var man växer upp, vilka resurser familjen har, hur man mår och hur man blir bemött.

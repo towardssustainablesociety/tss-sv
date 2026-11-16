@@ -1,3 +1,5 @@
+<!-- beskrivning: Vad menas med ett hållbart samhälle? Ett gott liv för alla, inom planetens gränser. Så hänger ekonomi, demokrati, ekologi och det sociala ihop. -->
+
 ![Samhällskartan: de fyra samhällssystemen med människan i mitten, den sociala grunden och planetens gränser](<../Vårt samhälle/Samhällskartan/Samhällskartan.svg>)
 
 ## Välkommen!

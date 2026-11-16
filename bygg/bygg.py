@@ -277,7 +277,8 @@ for p in pages.values():
     up = '../' * p['url'].count('/')
     title = START if p['name'] == START else p['name']
     head_title = SITE if p['name'] == START else f'{p["name"]} – {SHORT}'
-    d = desc(b) or SITE
+    m = re.search(r'<!--\s*(?:beskrivning|description):\s*(.*?)\s*-->', open(p['md'], encoding='utf-8').read(), re.S)
+    d = (' '.join(m.group(1).split()) if m else desc(b)) or SITE   # egen beskrivning för sökresultaten, annars första stycket
     page = TPL
     for k, v in {
         '{{TITLE}}': html.escape(head_title), '{{H1}}': html.escape(title), '{{DESC}}': html.escape(d, quote=True),

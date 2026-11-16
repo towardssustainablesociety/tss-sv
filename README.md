@@ -33,6 +33,7 @@ Texterna i förrådet är originalet sedan 2026-10-28. Före dess var originalet
 - En länk till en annan sida går till sidans fil, med relativ sökväg inom vinkelparenteser, till exempel `[Planetära gränser – Ramverk](<../../Ramverk/Planetära gränser/Planetära gränser.md>)`. Då fungerar länken både här på GitHub och på webbplatsen.
 - En bild skrivs i ett eget stycke: `![Beskrivning av bilden](<Pengarnas väg 2026-10-21.png>)`. Beskrivningen blir bildens alternativtext.
 - En ny sida får en egen mapp med en fil, och läggs in på rätt plats i `Sidordning.md`.
+- Google visar normalt sidans första stycke under länken i sökresultaten. En sida kan i stället få en egen beskrivning (högst omkring 155 tecken) överst i filen: `<!-- beskrivning: … -->` (på engelska `<!-- description: … -->`). Den syns inte på sidan.
 
 ## Hur bygget fungerar
 
